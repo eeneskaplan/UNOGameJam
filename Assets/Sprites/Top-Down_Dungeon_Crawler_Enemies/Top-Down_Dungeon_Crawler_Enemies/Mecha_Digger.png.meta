@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: 94f2c071addac84478b36452501cfdea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7103446296021498500
+    second: Mecha_Digger_0
+  - first:
+      213: 9009685048528008587
+    second: Mecha_Digger_1
+  - first:
+      213: -8188602798598699814
+    second: Mecha_Digger_2
+  - first:
+      213: 5900338822362439414
+    second: Mecha_Digger_3
+  - first:
+      213: -2869428674441866181
+    second: Mecha_Digger_4
+  - first:
+      213: 1044722335190648315
+    second: Mecha_Digger_5
+  - first:
+      213: 6762817688732211169
+    second: Mecha_Digger_6
+  - first:
+      213: 3413935219466257057
+    second: Mecha_Digger_7
+  - first:
+      213: 1936027853604692811
+    second: Mecha_Digger_8
+  - first:
+      213: -5835894745384298565
+    second: Mecha_Digger_9
+  - first:
+      213: -7926662021748169260
+    second: Mecha_Digger_10
+  - first:
+      213: 236231921283372842
+    second: Mecha_Digger_11
+  - first:
+      213: -4006471021248690055
+    second: Mecha_Digger_12
+  - first:
+      213: -694932669266441014
+    second: Mecha_Digger_13
+  - first:
+      213: 8654371852837188232
+    second: Mecha_Digger_14
+  - first:
+      213: -7109869939160304458
+    second: Mecha_Digger_15
+  - first:
+      213: 158928145575778238
+    second: Mecha_Digger_16
+  - first:
+      213: 284163220465695758
+    second: Mecha_Digger_17
+  - first:
+      213: 4810204313919712223
+    second: Mecha_Digger_18
+  - first:
+      213: 5431905543661728113
+    second: Mecha_Digger_19
+  - first:
+      213: -2555816390370542718
+    second: Mecha_Digger_20
+  - first:
+      213: 2068257369709803894
+    second: Mecha_Digger_21
+  - first:
+      213: -8918864998733352823
+    second: Mecha_Digger_22
+  - first:
+      213: -7039866899061855590
+    second: Mecha_Digger_23
+  - first:
+      213: -1875898292461782991
+    second: Mecha_Digger_24
+  - first:
+      213: -5171336835148290767
+    second: Mecha_Digger_25
+  - first:
+      213: -3363497371899226210
+    second: Mecha_Digger_26
+  - first:
+      213: -352939864985190842
+    second: Mecha_Digger_27
+  - first:
+      213: -5477737166795491352
+    second: Mecha_Digger_28
+  - first:
+      213: 2424106840115947194
+    second: Mecha_Digger_29
+  - first:
+      213: 7049327985572904908
+    second: Mecha_Digger_30
+  - first:
+      213: -5764664491026098756
+    second: Mecha_Digger_31
+  - first:
+      213: 1544766145950479800
+    second: Mecha_Digger_32
+  - first:
+      213: 8647145539539748664
+    second: Mecha_Digger_33
+  - first:
+      213: 5426578386997977593
+    second: Mecha_Digger_34
+  - first:
+      213: -2587754024861762124
+    second: Mecha_Digger_35
+  - first:
+      213: 402233760791892094
+    second: Mecha_Digger_36
+  - first:
+      213: -1639267138891686105
+    second: Mecha_Digger_37
+  - first:
+      213: 182221519682206442
+    second: Mecha_Digger_38
+  - first:
+      213: -3729756342786464859
+    second: Mecha_Digger_39
+  - first:
+      213: 3338763162088835372
+    second: Mecha_Digger_40
+  - first:
+      213: -6006178220782330080
+    second: Mecha_Digger_41
+  - first:
+      213: 6005730892196673866
+    second: Mecha_Digger_42
+  - first:
+      213: -25273578100467573
+    second: Mecha_Digger_43
+  - first:
+      213: 2703454749492367115
+    second: Mecha_Digger_44
+  - first:
+      213: -372507062756617380
+    second: Mecha_Digger_45
+  - first:
+      213: -3285214768131750471
+    second: Mecha_Digger_46
+  - first:
+      213: 1185745527622162288
+    second: Mecha_Digger_47
+  - first:
+      213: 6190551458052487508
+    second: Mecha_Digger_48
+  - first:
+      213: 8382796527860731163
+    second: Mecha_Digger_49
+  - first:
+      213: 8747889650760944060
+    second: Mecha_Digger_50
+  - first:
+      213: -3645297053108845778
+    second: Mecha_Digger_51
+  - first:
+      213: -7308400970180793931
+    second: Mecha_Digger_52
+  - first:
+      213: 2242797519594919599
+    second: Mecha_Digger_53
+  - first:
+      213: 8616271864217479151
+    second: Mecha_Digger_54
+  - first:
+      213: 3518283449407407260
+    second: Mecha_Digger_55
+  - first:
+      213: -7115960150757156924
+    second: Mecha_Digger_56
+  - first:
+      213: 4667117071878535247
+    second: Mecha_Digger_57
+  - first:
+      213: -7614154041743190466
+    second: Mecha_Digger_58
+  - first:
+      213: 2711597563984704099
+    second: Mecha_Digger_59
+  - first:
+      213: 514457502320586242
+    second: Mecha_Digger_60
+  - first:
+      213: -7140383223226521422
+    second: Mecha_Digger_61
+  - first:
+      213: -7777375994653898248
+    second: Mecha_Digger_62
+  - first:
+      213: -4904570911176169597
+    second: Mecha_Digger_63
+  - first:
+      213: 8276360960843529703
+    second: Mecha_Digger_64
+  - first:
+      213: -8928413350462621534
+    second: Mecha_Digger_65
+  - first:
+      213: 3650671779850805824
+    second: Mecha_Digger_66
+  - first:
+      213: -6797278090010221984
+    second: Mecha_Digger_67
+  - first:
+      213: 3975535848202795979
+    second: Mecha_Digger_68
+  - first:
+      213: -2287931088195092367
+    second: Mecha_Digger_69
+  - first:
+      213: 8068998174998718666
+    second: Mecha_Digger_70
+  - first:
+      213: -2363374140787947389
+    second: Mecha_Digger_71
+  - first:
+      213: 5570157066863798882
+    second: Mecha_Digger_72
+  - first:
+      213: -1310815590449434354
+    second: Mecha_Digger_73
+  - first:
+      213: -1927396323060260084
+    second: Mecha_Digger_74
+  - first:
+      213: -4000898310291709134
+    second: Mecha_Digger_75
+  - first:
+      213: 7705978396640587979
+    second: Mecha_Digger_76
+  - first:
+      213: 3685463556826799990
+    second: Mecha_Digger_77
+  - first:
+      213: -7617758875672011844
+    second: Mecha_Digger_78
+  - first:
+      213: -3294669792866746116
+    second: Mecha_Digger_79
+  - first:
+      213: -128721260239128636
+    second: Mecha_Digger_80
+  - first:
+      213: -3062214482778166247
+    second: Mecha_Digger_81
+  - first:
+      213: -5066624592587705234
+    second: Mecha_Digger_82
+  - first:
+      213: 4743006979888391634
+    second: Mecha_Digger_83
+  - first:
+      213: 4079506675137368471
+    second: Mecha_Digger_84
+  - first:
+      213: -6713797795980068296
+    second: Mecha_Digger_85
+  - first:
+      213: -5294769357840521684
+    second: Mecha_Digger_86
+  - first:
+      213: 8179366819842233960
+    second: Mecha_Digger_87
+  - first:
+      213: -8313845749327636088
+    second: Mecha_Digger_88
+  - first:
+      213: 1746702487975371689
+    second: Mecha_Digger_89
+  - first:
+      213: 168116597623328620
+    second: Mecha_Digger_90
+  - first:
+      213: -2092616554131613916
+    second: Mecha_Digger_91
+  - first:
+      213: 8371074071533219305
+    second: Mecha_Digger_92
+  - first:
+      213: 8571336529677099424
+    second: Mecha_Digger_93
+  - first:
+      213: -4849446904531358900
+    second: Mecha_Digger_94
+  - first:
+      213: 1670650190529988775
+    second: Mecha_Digger_95
+  - first:
+      213: -5676465162190312729
+    second: Mecha_Digger_96
+  - first:
+      213: 3412103574907726241
+    second: Mecha_Digger_97
+  - first:
+      213: -9099823594915632843
+    second: Mecha_Digger_98
+  - first:
+      213: 1188247380002840213
+    second: Mecha_Digger_99
+  - first:
+      213: 1666669086564798413
+    second: Mecha_Digger_100
+  - first:
+      213: -1509959411568810481
+    second: Mecha_Digger_101
+  - first:
+      213: -5168870423141421103
+    second: Mecha_Digger_102
+  - first:
+      213: -3779893176698385818
+    second: Mecha_Digger_103
+  - first:
+      213: 4864326580015327764
+    second: Mecha_Digger_104
+  - first:
+      213: -5586962619884250133
+    second: Mecha_Digger_105
+  - first:
+      213: -5077532518245345303
+    second: Mecha_Digger_106
+  - first:
+      213: 2753996372572150192
+    second: Mecha_Digger_107
+  - first:
+      213: 7318532120590864517
+    second: Mecha_Digger_108
+  - first:
+      213: 750425575919901814
+    second: Mecha_Digger_109
+  - first:
+      213: -5432719913398862273
+    second: Mecha_Digger_110
+  - first:
+      213: 7948053428480542277
+    second: Mecha_Digger_111
+  - first:
+      213: 6061899523484672271
+    second: Mecha_Digger_112
+  - first:
+      213: -6014933293658135260
+    second: Mecha_Digger_113
+  - first:
+      213: 8972048391673148018
+    second: Mecha_Digger_114
+  - first:
+      213: -1424810137861244085
+    second: Mecha_Digger_115
+  - first:
+      213: -422653208493719089
+    second: Mecha_Digger_116
+  - first:
+      213: -2370622706718003292
+    second: Mecha_Digger_117
+  - first:
+      213: -9108075174663193892
+    second: Mecha_Digger_118
+  - first:
+      213: 2204912450815883180
+    second: Mecha_Digger_119
+  - first:
+      213: -5246276729991423207
+    second: Mecha_Digger_120
+  - first:
+      213: -6833691052330872682
+    second: Mecha_Digger_121
+  - first:
+      213: -4330780874925865146
+    second: Mecha_Digger_122
+  - first:
+      213: -6289411076599189407
+    second: Mecha_Digger_123
+  - first:
+      213: 5260802201953119350
+    second: Mecha_Digger_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mecha_Digger_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75039cba3d7b6d90800000000000000
+      internalID: -7103446296021498500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85f8a7f0d4d80d70800000000000000
+      internalID: 9009685048528008587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad441c6c32d3c5e80800000000000000
+      internalID: -8188602798598699814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 135
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1c59c5e632e150800000000000000
+      internalID: 5900338822362439414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 136
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34929fc2ddbd28d0800000000000000
+      internalID: -2869428674441866181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf584fdbd699f7e00800000000000000
+      internalID: 1044722335190648315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 135
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e79c916bda5add50800000000000000
+      internalID: 6762817688732211169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24b7a8efbb06f20800000000000000
+      internalID: 3413935219466257057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ae5943172eda10800000000000000
+      internalID: 1936027853604692811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 144
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7dcc226acb20fa0800000000000000
+      internalID: -5835894745384298565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_10
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 143
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ee1373e6def190800000000000000
+      internalID: -7926662021748169260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 141
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2714b84ea3474300800000000000000
+      internalID: 236231921283372842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_12
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978439755d72668c0800000000000000
+      internalID: -4006471021248690055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 136
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc4f815b6a1b56f0800000000000000
+      internalID: -694932669266441014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_14
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 142
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ff7ae8518a1870800000000000000
+      internalID: 8654371852837188232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_15
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 137
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43f15c5faa45d90800000000000000
+      internalID: -7109869939160304458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb71bdd6e40a43200800000000000000
+      internalID: 158928145575778238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cb61681fc81f300800000000000000
+      internalID: 284163220465695758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb6c34865741c240800000000000000
+      internalID: 4810204313919712223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171be6fff41026b40800000000000000
+      internalID: 5431905543661728113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb7d4c88ae78cd0800000000000000
+      internalID: -2555816390370542718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f2a1ae1de3bc10800000000000000
+      internalID: 2068257369709803894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98075dea983d93480800000000000000
+      internalID: -8918864998733352823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a2367aa5e5d4e90800000000000000
+      internalID: -7039866899061855590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138bd03217877f5e0800000000000000
+      internalID: -1875898292461782991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e71f1c88bb38b0800000000000000
+      internalID: -5171336835148290767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e979cf8f5f47251d0800000000000000
+      internalID: -3363497371899226210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ebb70101b1a1bf0800000000000000
+      internalID: -352939864985190842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_28
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e73330b11b2bf3b0800000000000000
+      internalID: -5477737166795491352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6a4bed35824a120800000000000000
+      internalID: 2424106840115947194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccffa45347e34d160800000000000000
+      internalID: 7049327985572904908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_31
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 133
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5d41b103ccfffa0800000000000000
+      internalID: -5764664491026098756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_32
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57d6e00ac107510800000000000000
+      internalID: 1544766145950479800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 135
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ce5dbd05d00870800000000000000
+      internalID: 8647145539539748664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_34
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a3deaa441f4b40800000000000000
+      internalID: 5426578386997977593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_35
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 136
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdf606cc63761cd0800000000000000
+      internalID: -2587754024861762124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e709bac6975059500800000000000000
+      internalID: 402233760791892094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd36ee8372049e0800000000000000
+      internalID: -1639267138891686105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaf617b181678200800000000000000
+      internalID: 182221519682206442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e3790e5e3d3cc0800000000000000
+      internalID: -3729756342786464859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c290779086ba55e20800000000000000
+      internalID: 3338763162088835372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fd494fab4c5aca0800000000000000
+      internalID: -6006178220782330080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_42
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49f8fd3d64a85350800000000000000
+      internalID: 6005730892196673866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885e1b80d536aff0800000000000000
+      internalID: -25273578100467573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc5d965c9948520800000000000000
+      internalID: 2703454749492367115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c535110dcc694daf0800000000000000
+      internalID: -372507062756617380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c3aef2929862d0800000000000000
+      internalID: -3285214768131750471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775de7664d947010800000000000000
+      internalID: 1185745527622162288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_48
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459befc80c149e550800000000000000
+      internalID: 6190551458052487508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_49
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4483370da55470800000000000000
+      internalID: 8382796527860731163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_50
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 32
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb90ceff94fb66970800000000000000
+      internalID: 8747889650760944060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_51
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 18
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234ba0d4ad496dc0800000000000000
+      internalID: -3645297053108845778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_52
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9e0480a08539a90800000000000000
+      internalID: -7308400970180793931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_53
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa615921674002f10800000000000000
+      internalID: 2242797519594919599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_54
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe720ea0c95239770800000000000000
+      internalID: 8616271864217479151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_55
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948015182473d030800000000000000
+      internalID: 3518283449407407260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_56
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7d842e1f70f3d90800000000000000
+      internalID: -7115960150757156924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_57
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 15
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f483b7adf3ee4c040800000000000000
+      internalID: 4667117071878535247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_58
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 3
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36dac49d37155690800000000000000
+      internalID: -7614154041743190466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_59
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 7
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3627f172e9781a520800000000000000
+      internalID: 2711597563984704099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_60
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 10
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6ad56f58b32700800000000000000
+      internalID: 514457502320586242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_61
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 16
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ac633a4348ec90800000000000000
+      internalID: -7140383223226521422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_62
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 20
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9010a3db5311490800000000000000
+      internalID: -7777375994653898248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_63
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 50
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38761a7edb67febb0800000000000000
+      internalID: -4904570911176169597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_64
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 62
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3dff917a8bd270800000000000000
+      internalID: 8276360960843529703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_65
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 55
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8f1ddcc57e71480800000000000000
+      internalID: -8928413350462621534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_66
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 65
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042ec8544aac9a230800000000000000
+      internalID: 3650671779850805824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_67
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 57
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062256537973ba1a0800000000000000
+      internalID: -6797278090010221984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_68
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 57
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb75f76ac0fb2730800000000000000
+      internalID: 3975535848202795979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_69
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 67
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700f891cc2af30e0800000000000000
+      internalID: -2287931088195092367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_70
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 59
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8e21ab617daff60800000000000000
+      internalID: 8068998174998718666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_71
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 59
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3888dfa9dbb933fd0800000000000000
+      internalID: -2363374140787947389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_72
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 61
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a6c81275c2d4d40800000000000000
+      internalID: 5570157066863798882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_73
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 61
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01b73d5a2c0fcde0800000000000000
+      internalID: -1310815590449434354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_74
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 60
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03699681438045e0800000000000000
+      internalID: -1927396323060260084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_75
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 62
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332a983f24f978c0800000000000000
+      internalID: -4000898310291709134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_76
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 19
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b892168221fa60800000000000000
+      internalID: 7705978396640587979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_77
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 19
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f1f491495652330800000000000000
+      internalID: 3685463556826799990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 31
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9df6c9a8484690800000000000000
+      internalID: -7617758875672011844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_79
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 19
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0c7ff774bf642d0800000000000000
+      internalID: -3294669792866746116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_80
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 19
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7f76022b0b63ef0800000000000000
+      internalID: -128721260239128636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_81
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 32
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c63f7f624d085d0800000000000000
+      internalID: -3062214482778166247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_82
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 53
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e643d84f6cbbfa9b0800000000000000
+      internalID: -5066624592587705234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_83
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 52
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5227bf7bb82d140800000000000000
+      internalID: 4743006979888391634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_84
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 55
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d566f4b15d9830800000000000000
+      internalID: 4079506675137368471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_85
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 54
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83abeccc97cc3d2a0800000000000000
+      internalID: -6713797795980068296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_86
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 31
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26ea4a62533586b0800000000000000
+      internalID: -5294769357840521684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_87
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 56
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866105859c2f28170800000000000000
+      internalID: 8179366819842233960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_88
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 33
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8895fe1f6594f9c80800000000000000
+      internalID: -8313845749327636088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_89
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 58
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3201c88a88d3810800000000000000
+      internalID: 1746702487975371689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_90
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 35
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f8f22a725455200800000000000000
+      internalID: 168116597623328620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_91
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 37
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42712e7c45885f2e0800000000000000
+      internalID: -2092616554131613916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_92
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 39
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed683624870c2470800000000000000
+      internalID: 8371074071533219305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1abbd292183f670800000000000000
+      internalID: 8571336529677099424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_94
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6a4adbbd43bcb0800000000000000
+      internalID: -4849446904531358900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_95
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a88a7e2f775f2710800000000000000
+      internalID: 1670650190529988775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_96
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea24cb92052931b0800000000000000
+      internalID: -5676465162190312729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9273f8f1a3a5f20800000000000000
+      internalID: 3412103574907726241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_98
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e55247aee6b180800000000000000
+      internalID: -9099823594915632843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_99
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 20
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e9b5e42b08d7010800000000000000
+      internalID: 1188247380002840213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_100
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc1de24b2312710800000000000000
+      internalID: 1666669086564798413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_101
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 19
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06ee205aeb8b0be0800000000000000
+      internalID: -1509959411568810481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_102
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 19
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe1aa6cbb7448b0800000000000000
+      internalID: -5168870423141421103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_103
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 19
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a48f9be2f1b8bc0800000000000000
+      internalID: -3779893176698385818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_104
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aed41904f818340800000000000000
+      internalID: 4864326580015327764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_105
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebd964291f1772b0800000000000000
+      internalID: -5586962619884250133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_106
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7dd7a931bf889b0800000000000000
+      internalID: -5077532518245345303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_107
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b990eb0c19283620800000000000000
+      internalID: 2753996372572150192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_108
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 23
+        width: 71
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580da1d3036a09560800000000000000
+      internalID: 7318532120590864517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_109
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 26
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd21bd51c0a6a00800000000000000
+      internalID: 750425575919901814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e7ba5c50a1b94b0800000000000000
+      internalID: -5432719913398862273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546886c8b782d4e60800000000000000
+      internalID: 7948053428480542277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_112
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01e961df71302450800000000000000
+      internalID: 6061899523484672271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_113
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 22
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42526d3b90aa68ca0800000000000000
+      internalID: -6014933293658135260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_114
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272fa4de97e138c70800000000000000
+      internalID: 8972048391673148018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_115
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bb7648abe0a3ce0800000000000000
+      internalID: -1424810137861244085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_116
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 19
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc18d8c652f622af0800000000000000
+      internalID: -422653208493719089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_117
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af2995553bd91fd0800000000000000
+      internalID: -2370622706718003292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_118
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda75a2a2ed999180800000000000000
+      internalID: -9108075174663193892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_119
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca777bf113c699e10800000000000000
+      internalID: 2204912450815883180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_120
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b967b2c1b7137b0800000000000000
+      internalID: -5246276729991423207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_121
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6909d01c13ad921a0800000000000000
+      internalID: -6833691052330872682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_122
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 19
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470dfd5db9f5e3c0800000000000000
+      internalID: -4330780874925865146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_123
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f5e4d2f587b8a0800000000000000
+      internalID: -6289411076599189407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecha_Digger_124
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 19
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c2201dabf120940800000000000000
+      internalID: 5260802201953119350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mecha_Digger_0: -7103446296021498500
+      Mecha_Digger_1: 9009685048528008587
+      Mecha_Digger_10: -7926662021748169260
+      Mecha_Digger_100: 1666669086564798413
+      Mecha_Digger_101: -1509959411568810481
+      Mecha_Digger_102: -5168870423141421103
+      Mecha_Digger_103: -3779893176698385818
+      Mecha_Digger_104: 4864326580015327764
+      Mecha_Digger_105: -5586962619884250133
+      Mecha_Digger_106: -5077532518245345303
+      Mecha_Digger_107: 2753996372572150192
+      Mecha_Digger_108: 7318532120590864517
+      Mecha_Digger_109: 750425575919901814
+      Mecha_Digger_11: 236231921283372842
+      Mecha_Digger_110: -5432719913398862273
+      Mecha_Digger_111: 7948053428480542277
+      Mecha_Digger_112: 6061899523484672271
+      Mecha_Digger_113: -6014933293658135260
+      Mecha_Digger_114: 8972048391673148018
+      Mecha_Digger_115: -1424810137861244085
+      Mecha_Digger_116: -422653208493719089
+      Mecha_Digger_117: -2370622706718003292
+      Mecha_Digger_118: -9108075174663193892
+      Mecha_Digger_119: 2204912450815883180
+      Mecha_Digger_12: -4006471021248690055
+      Mecha_Digger_120: -5246276729991423207
+      Mecha_Digger_121: -6833691052330872682
+      Mecha_Digger_122: -4330780874925865146
+      Mecha_Digger_123: -6289411076599189407
+      Mecha_Digger_124: 5260802201953119350
+      Mecha_Digger_13: -694932669266441014
+      Mecha_Digger_14: 8654371852837188232
+      Mecha_Digger_15: -7109869939160304458
+      Mecha_Digger_16: 158928145575778238
+      Mecha_Digger_17: 284163220465695758
+      Mecha_Digger_18: 4810204313919712223
+      Mecha_Digger_19: 5431905543661728113
+      Mecha_Digger_2: -8188602798598699814
+      Mecha_Digger_20: -2555816390370542718
+      Mecha_Digger_21: 2068257369709803894
+      Mecha_Digger_22: -8918864998733352823
+      Mecha_Digger_23: -7039866899061855590
+      Mecha_Digger_24: -1875898292461782991
+      Mecha_Digger_25: -5171336835148290767
+      Mecha_Digger_26: -3363497371899226210
+      Mecha_Digger_27: -352939864985190842
+      Mecha_Digger_28: -5477737166795491352
+      Mecha_Digger_29: 2424106840115947194
+      Mecha_Digger_3: 5900338822362439414
+      Mecha_Digger_30: 7049327985572904908
+      Mecha_Digger_31: -5764664491026098756
+      Mecha_Digger_32: 1544766145950479800
+      Mecha_Digger_33: 8647145539539748664
+      Mecha_Digger_34: 5426578386997977593
+      Mecha_Digger_35: -2587754024861762124
+      Mecha_Digger_36: 402233760791892094
+      Mecha_Digger_37: -1639267138891686105
+      Mecha_Digger_38: 182221519682206442
+      Mecha_Digger_39: -3729756342786464859
+      Mecha_Digger_4: -2869428674441866181
+      Mecha_Digger_40: 3338763162088835372
+      Mecha_Digger_41: -6006178220782330080
+      Mecha_Digger_42: 6005730892196673866
+      Mecha_Digger_43: -25273578100467573
+      Mecha_Digger_44: 2703454749492367115
+      Mecha_Digger_45: -372507062756617380
+      Mecha_Digger_46: -3285214768131750471
+      Mecha_Digger_47: 1185745527622162288
+      Mecha_Digger_48: 6190551458052487508
+      Mecha_Digger_49: 8382796527860731163
+      Mecha_Digger_5: 1044722335190648315
+      Mecha_Digger_50: 8747889650760944060
+      Mecha_Digger_51: -3645297053108845778
+      Mecha_Digger_52: -7308400970180793931
+      Mecha_Digger_53: 2242797519594919599
+      Mecha_Digger_54: 8616271864217479151
+      Mecha_Digger_55: 3518283449407407260
+      Mecha_Digger_56: -7115960150757156924
+      Mecha_Digger_57: 4667117071878535247
+      Mecha_Digger_58: -7614154041743190466
+      Mecha_Digger_59: 2711597563984704099
+      Mecha_Digger_6: 6762817688732211169
+      Mecha_Digger_60: 514457502320586242
+      Mecha_Digger_61: -7140383223226521422
+      Mecha_Digger_62: -7777375994653898248
+      Mecha_Digger_63: -4904570911176169597
+      Mecha_Digger_64: 8276360960843529703
+      Mecha_Digger_65: -8928413350462621534
+      Mecha_Digger_66: 3650671779850805824
+      Mecha_Digger_67: -6797278090010221984
+      Mecha_Digger_68: 3975535848202795979
+      Mecha_Digger_69: -2287931088195092367
+      Mecha_Digger_7: 3413935219466257057
+      Mecha_Digger_70: 8068998174998718666
+      Mecha_Digger_71: -2363374140787947389
+      Mecha_Digger_72: 5570157066863798882
+      Mecha_Digger_73: -1310815590449434354
+      Mecha_Digger_74: -1927396323060260084
+      Mecha_Digger_75: -4000898310291709134
+      Mecha_Digger_76: 7705978396640587979
+      Mecha_Digger_77: 3685463556826799990
+      Mecha_Digger_78: -7617758875672011844
+      Mecha_Digger_79: -3294669792866746116
+      Mecha_Digger_8: 1936027853604692811
+      Mecha_Digger_80: -128721260239128636
+      Mecha_Digger_81: -3062214482778166247
+      Mecha_Digger_82: -5066624592587705234
+      Mecha_Digger_83: 4743006979888391634
+      Mecha_Digger_84: 4079506675137368471
+      Mecha_Digger_85: -6713797795980068296
+      Mecha_Digger_86: -5294769357840521684
+      Mecha_Digger_87: 8179366819842233960
+      Mecha_Digger_88: -8313845749327636088
+      Mecha_Digger_89: 1746702487975371689
+      Mecha_Digger_9: -5835894745384298565
+      Mecha_Digger_90: 168116597623328620
+      Mecha_Digger_91: -2092616554131613916
+      Mecha_Digger_92: 8371074071533219305
+      Mecha_Digger_93: 8571336529677099424
+      Mecha_Digger_94: -4849446904531358900
+      Mecha_Digger_95: 1670650190529988775
+      Mecha_Digger_96: -5676465162190312729
+      Mecha_Digger_97: 3412103574907726241
+      Mecha_Digger_98: -9099823594915632843
+      Mecha_Digger_99: 1188247380002840213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

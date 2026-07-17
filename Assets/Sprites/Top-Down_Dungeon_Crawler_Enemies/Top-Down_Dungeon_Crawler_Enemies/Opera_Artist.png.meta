@@ -1,0 +1,5187 @@
+fileFormatVersion: 2
+guid: 9cfde15944586ab40832c389779329ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3280890610357214451
+    second: Opera_Artist_0
+  - first:
+      213: -59480362954207447
+    second: Opera_Artist_1
+  - first:
+      213: -6439145260652470752
+    second: Opera_Artist_2
+  - first:
+      213: 7619875002120687161
+    second: Opera_Artist_3
+  - first:
+      213: -3012383744976020720
+    second: Opera_Artist_4
+  - first:
+      213: 7663869608181287168
+    second: Opera_Artist_5
+  - first:
+      213: 1090028659530251222
+    second: Opera_Artist_6
+  - first:
+      213: 7530554803289235427
+    second: Opera_Artist_7
+  - first:
+      213: -5280842795968706464
+    second: Opera_Artist_8
+  - first:
+      213: 4183943497764079200
+    second: Opera_Artist_9
+  - first:
+      213: -5245766665332352734
+    second: Opera_Artist_10
+  - first:
+      213: -5474962586353114180
+    second: Opera_Artist_11
+  - first:
+      213: -1960020796974095436
+    second: Opera_Artist_12
+  - first:
+      213: 5431898764981361300
+    second: Opera_Artist_13
+  - first:
+      213: 6635588619079642746
+    second: Opera_Artist_14
+  - first:
+      213: 5346861123360761154
+    second: Opera_Artist_15
+  - first:
+      213: -8498583740077880951
+    second: Opera_Artist_16
+  - first:
+      213: -2865695653437579515
+    second: Opera_Artist_17
+  - first:
+      213: 2513876507721231059
+    second: Opera_Artist_18
+  - first:
+      213: 5446901246104475829
+    second: Opera_Artist_19
+  - first:
+      213: 2321092550992299181
+    second: Opera_Artist_20
+  - first:
+      213: -4506777123842587488
+    second: Opera_Artist_21
+  - first:
+      213: -3559176661409289349
+    second: Opera_Artist_22
+  - first:
+      213: -9196476371741210193
+    second: Opera_Artist_23
+  - first:
+      213: 8971045817785386128
+    second: Opera_Artist_24
+  - first:
+      213: -3991441365441241513
+    second: Opera_Artist_25
+  - first:
+      213: -4920677904067185601
+    second: Opera_Artist_26
+  - first:
+      213: -3867532576073942752
+    second: Opera_Artist_27
+  - first:
+      213: -4684592537128091455
+    second: Opera_Artist_28
+  - first:
+      213: -5432203789281089486
+    second: Opera_Artist_29
+  - first:
+      213: -2985961242506827431
+    second: Opera_Artist_30
+  - first:
+      213: 5254104224076193606
+    second: Opera_Artist_31
+  - first:
+      213: 5831141384140662030
+    second: Opera_Artist_32
+  - first:
+      213: -8113636976745475431
+    second: Opera_Artist_33
+  - first:
+      213: -9208375571791286072
+    second: Opera_Artist_34
+  - first:
+      213: 8603665703585602203
+    second: Opera_Artist_35
+  - first:
+      213: 8002603431944437643
+    second: Opera_Artist_36
+  - first:
+      213: -4733392937278285974
+    second: Opera_Artist_37
+  - first:
+      213: 6134616640080266939
+    second: Opera_Artist_38
+  - first:
+      213: 5824212718785626980
+    second: Opera_Artist_39
+  - first:
+      213: -1161740190039770028
+    second: Opera_Artist_40
+  - first:
+      213: 2589578742675770504
+    second: Opera_Artist_41
+  - first:
+      213: 5054926550280263931
+    second: Opera_Artist_42
+  - first:
+      213: 4468713874905104436
+    second: Opera_Artist_43
+  - first:
+      213: -8955076109594074033
+    second: Opera_Artist_44
+  - first:
+      213: 8731788024729380274
+    second: Opera_Artist_45
+  - first:
+      213: 8965215616888391340
+    second: Opera_Artist_46
+  - first:
+      213: 7879586152029071898
+    second: Opera_Artist_47
+  - first:
+      213: 1872521998588994591
+    second: Opera_Artist_48
+  - first:
+      213: -1117566476301952232
+    second: Opera_Artist_49
+  - first:
+      213: -6401577797661426208
+    second: Opera_Artist_50
+  - first:
+      213: -5908443596507592199
+    second: Opera_Artist_51
+  - first:
+      213: -1641712392897370861
+    second: Opera_Artist_52
+  - first:
+      213: 6568226020826652201
+    second: Opera_Artist_53
+  - first:
+      213: -387509410006701572
+    second: Opera_Artist_54
+  - first:
+      213: 7467577678826849637
+    second: Opera_Artist_55
+  - first:
+      213: 2035782171595246006
+    second: Opera_Artist_56
+  - first:
+      213: -767116931908158121
+    second: Opera_Artist_57
+  - first:
+      213: 3244399630422205540
+    second: Opera_Artist_58
+  - first:
+      213: 5334629110107705829
+    second: Opera_Artist_59
+  - first:
+      213: 8250808216875932399
+    second: Opera_Artist_60
+  - first:
+      213: -1870889091479350958
+    second: Opera_Artist_61
+  - first:
+      213: 909242396804583404
+    second: Opera_Artist_62
+  - first:
+      213: -5261304754266375008
+    second: Opera_Artist_63
+  - first:
+      213: -1456643147706180893
+    second: Opera_Artist_64
+  - first:
+      213: 6746480653295841114
+    second: Opera_Artist_65
+  - first:
+      213: 4374490067258462097
+    second: Opera_Artist_66
+  - first:
+      213: 7703266611998206171
+    second: Opera_Artist_67
+  - first:
+      213: -2386929500747327261
+    second: Opera_Artist_68
+  - first:
+      213: 3409138821337344674
+    second: Opera_Artist_69
+  - first:
+      213: 6676194345519053580
+    second: Opera_Artist_70
+  - first:
+      213: -3634198199083931098
+    second: Opera_Artist_71
+  - first:
+      213: 8105737257559370503
+    second: Opera_Artist_72
+  - first:
+      213: -3439625014604570124
+    second: Opera_Artist_73
+  - first:
+      213: 883364903543137498
+    second: Opera_Artist_74
+  - first:
+      213: -1382937843384225652
+    second: Opera_Artist_75
+  - first:
+      213: -110892280315349831
+    second: Opera_Artist_76
+  - first:
+      213: 5385953534295963712
+    second: Opera_Artist_77
+  - first:
+      213: 4206071682229479533
+    second: Opera_Artist_78
+  - first:
+      213: -6514984871188407551
+    second: Opera_Artist_79
+  - first:
+      213: 5509700943034593590
+    second: Opera_Artist_80
+  - first:
+      213: 8406274468703679402
+    second: Opera_Artist_81
+  - first:
+      213: -7090064425857022518
+    second: Opera_Artist_82
+  - first:
+      213: -8147922264821370815
+    second: Opera_Artist_83
+  - first:
+      213: 4817562195355978090
+    second: Opera_Artist_84
+  - first:
+      213: -8283676051267756913
+    second: Opera_Artist_85
+  - first:
+      213: -1701801846432989242
+    second: Opera_Artist_86
+  - first:
+      213: 7731905132486574071
+    second: Opera_Artist_87
+  - first:
+      213: -3153383295322635038
+    second: Opera_Artist_88
+  - first:
+      213: 3597565750091026690
+    second: Opera_Artist_89
+  - first:
+      213: -4902965200863865385
+    second: Opera_Artist_90
+  - first:
+      213: -7431717808397297544
+    second: Opera_Artist_91
+  - first:
+      213: 2954884009699745563
+    second: Opera_Artist_92
+  - first:
+      213: 904684466253237847
+    second: Opera_Artist_93
+  - first:
+      213: -1295010102509683062
+    second: Opera_Artist_94
+  - first:
+      213: 1054611047447951108
+    second: Opera_Artist_95
+  - first:
+      213: -1094756588324749983
+    second: Opera_Artist_96
+  - first:
+      213: 5608536627313431456
+    second: Opera_Artist_97
+  - first:
+      213: -5918891740764206769
+    second: Opera_Artist_98
+  - first:
+      213: 9032941507502362520
+    second: Opera_Artist_99
+  - first:
+      213: -6521272706002124535
+    second: Opera_Artist_100
+  - first:
+      213: -4242534436426105314
+    second: Opera_Artist_101
+  - first:
+      213: 2269452109157646458
+    second: Opera_Artist_102
+  - first:
+      213: -7045382826646542913
+    second: Opera_Artist_103
+  - first:
+      213: -3084522378786667923
+    second: Opera_Artist_104
+  - first:
+      213: 6618928202096782857
+    second: Opera_Artist_105
+  - first:
+      213: 2183324765811359427
+    second: Opera_Artist_106
+  - first:
+      213: -6159980025486085628
+    second: Opera_Artist_107
+  - first:
+      213: -5358766066878069993
+    second: Opera_Artist_108
+  - first:
+      213: -3650954038841424185
+    second: Opera_Artist_109
+  - first:
+      213: -6323749367493403324
+    second: Opera_Artist_110
+  - first:
+      213: -2125556397348783084
+    second: Opera_Artist_111
+  - first:
+      213: 8331283202173347297
+    second: Opera_Artist_112
+  - first:
+      213: 6868835355403700802
+    second: Opera_Artist_113
+  - first:
+      213: 5774027047165133286
+    second: Opera_Artist_114
+  - first:
+      213: 4852417647300468788
+    second: Opera_Artist_115
+  - first:
+      213: -5897009156546373795
+    second: Opera_Artist_116
+  - first:
+      213: -4980828823797319523
+    second: Opera_Artist_117
+  - first:
+      213: 2026802511049120337
+    second: Opera_Artist_118
+  - first:
+      213: -3782451625039375701
+    second: Opera_Artist_119
+  - first:
+      213: 3888698410167319939
+    second: Opera_Artist_120
+  - first:
+      213: 8784307349084384019
+    second: Opera_Artist_121
+  - first:
+      213: -5306755254422303033
+    second: Opera_Artist_122
+  - first:
+      213: 5483036498509868107
+    second: Opera_Artist_123
+  - first:
+      213: 8860493685754246143
+    second: Opera_Artist_124
+  - first:
+      213: 329967693454210031
+    second: Opera_Artist_125
+  - first:
+      213: -2980377359586025641
+    second: Opera_Artist_126
+  - first:
+      213: -7740737456175274346
+    second: Opera_Artist_127
+  - first:
+      213: 3655314093382656649
+    second: Opera_Artist_128
+  - first:
+      213: -1460365414129063033
+    second: Opera_Artist_129
+  - first:
+      213: 3112924723739778111
+    second: Opera_Artist_130
+  - first:
+      213: 5293904768662192922
+    second: Opera_Artist_131
+  - first:
+      213: -6856720263843559010
+    second: Opera_Artist_132
+  - first:
+      213: -8347654496336063981
+    second: Opera_Artist_133
+  - first:
+      213: -8317234581792396931
+    second: Opera_Artist_134
+  - first:
+      213: 1613263179023516048
+    second: Opera_Artist_135
+  - first:
+      213: -8046783767223175583
+    second: Opera_Artist_136
+  - first:
+      213: -142203714864905979
+    second: Opera_Artist_137
+  - first:
+      213: 8532056601976631373
+    second: Opera_Artist_138
+  - first:
+      213: 3944193525090753088
+    second: Opera_Artist_139
+  - first:
+      213: -8873809304339840770
+    second: Opera_Artist_140
+  - first:
+      213: 7455178271468766164
+    second: Opera_Artist_141
+  - first:
+      213: -2820822252951786191
+    second: Opera_Artist_142
+  - first:
+      213: 4346720725069660705
+    second: Opera_Artist_143
+  - first:
+      213: 5511290098503634432
+    second: Opera_Artist_144
+  - first:
+      213: 3689684843700370471
+    second: Opera_Artist_145
+  - first:
+      213: -6192597612829710493
+    second: Opera_Artist_146
+  - first:
+      213: -6892931538611350760
+    second: Opera_Artist_147
+  - first:
+      213: -7471495768503508575
+    second: Opera_Artist_148
+  - first:
+      213: 2192155818368407919
+    second: Opera_Artist_149
+  - first:
+      213: -8959856202993324655
+    second: Opera_Artist_150
+  - first:
+      213: -619816901189077302
+    second: Opera_Artist_151
+  - first:
+      213: 2437113285860543698
+    second: Opera_Artist_152
+  - first:
+      213: -5841060929069296506
+    second: Opera_Artist_153
+  - first:
+      213: 7360435015277261789
+    second: Opera_Artist_154
+  - first:
+      213: 5241760140903302422
+    second: Opera_Artist_155
+  - first:
+      213: -844859159663884386
+    second: Opera_Artist_156
+  - first:
+      213: -8108000406925278496
+    second: Opera_Artist_157
+  - first:
+      213: -7947044345104719029
+    second: Opera_Artist_158
+  - first:
+      213: 7054032797487936900
+    second: Opera_Artist_159
+  - first:
+      213: 4487180129460507953
+    second: Opera_Artist_160
+  - first:
+      213: -1114164619312985847
+    second: Opera_Artist_161
+  - first:
+      213: -7504100234759899133
+    second: Opera_Artist_162
+  - first:
+      213: 8911112910119110644
+    second: Opera_Artist_163
+  - first:
+      213: -2587525149333194375
+    second: Opera_Artist_164
+  - first:
+      213: -6316835792057100253
+    second: Opera_Artist_165
+  - first:
+      213: -4323004644632950802
+    second: Opera_Artist_166
+  - first:
+      213: 1614794078242298868
+    second: Opera_Artist_167
+  - first:
+      213: 3161115988163164087
+    second: Opera_Artist_168
+  - first:
+      213: -5727144507727965516
+    second: Opera_Artist_169
+  - first:
+      213: 4076918464548789910
+    second: Opera_Artist_170
+  - first:
+      213: 6181676141224028166
+    second: Opera_Artist_171
+  - first:
+      213: -7776254409081673461
+    second: Opera_Artist_172
+  - first:
+      213: 178759283799030822
+    second: Opera_Artist_173
+  - first:
+      213: -1921186658595726747
+    second: Opera_Artist_174
+  - first:
+      213: 4435018591247160876
+    second: Opera_Artist_175
+  - first:
+      213: -5671272413523596174
+    second: Opera_Artist_176
+  - first:
+      213: -2524431778742709445
+    second: Opera_Artist_177
+  - first:
+      213: -5229649114941290216
+    second: Opera_Artist_178
+  - first:
+      213: -6410122654572225062
+    second: Opera_Artist_179
+  - first:
+      213: 4921278479749868444
+    second: Opera_Artist_180
+  - first:
+      213: 4108529627032891574
+    second: Opera_Artist_181
+  - first:
+      213: -3365094009950896424
+    second: Opera_Artist_182
+  - first:
+      213: 8306874898621104599
+    second: Opera_Artist_183
+  - first:
+      213: -7158837149060314172
+    second: Opera_Artist_184
+  - first:
+      213: 3811035472057980075
+    second: Opera_Artist_185
+  - first:
+      213: -3876508229168128418
+    second: Opera_Artist_186
+  - first:
+      213: -4076880360021333009
+    second: Opera_Artist_187
+  - first:
+      213: -2348071066609627784
+    second: Opera_Artist_188
+  - first:
+      213: -1659366832509370064
+    second: Opera_Artist_189
+  - first:
+      213: 7991187342384906386
+    second: Opera_Artist_190
+  - first:
+      213: 8453498488189186628
+    second: Opera_Artist_191
+  - first:
+      213: -2241018225689111098
+    second: Opera_Artist_192
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Opera_Artist_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1090
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc914190a0188d20800000000000000
+      internalID: 3280890610357214451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1090
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc00fcceeac2ff0800000000000000
+      internalID: -59480362954207447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1090
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e5ba1608f83a6a0800000000000000
+      internalID: -6439145260652470752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e484e41fb3fb960800000000000000
+      internalID: 7619875002120687161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1090
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1b89b1fcd136d0800000000000000
+      internalID: -3012383744976020720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1089
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009ce80cdc88b5a60800000000000000
+      internalID: 7663869608181287168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1090
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbbb466a4f802f00800000000000000
+      internalID: 1090028659530251222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1090
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef9aabe1b7e18860800000000000000
+      internalID: 7530554803289235427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1026
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068ca97c47da6b6b0800000000000000
+      internalID: -5280842795968706464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1026
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0668888917a501a30800000000000000
+      internalID: 4183943497764079200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1026
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229974ad20b4337b0800000000000000
+      internalID: -5245766665332352734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1026
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb36ed909860504b0800000000000000
+      internalID: -5474962586353114180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1026
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32bf3487b9cc4e0800000000000000
+      internalID: -1960020796974095436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1026
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ad896b52bf16b40800000000000000
+      internalID: 5431898764981361300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1026
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eedd331b8561c50800000000000000
+      internalID: 6635588619079642746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1026
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245a341ecddd33a40800000000000000
+      internalID: 5346861123360761154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1026
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894fb6ad17fe0a80800000000000000
+      internalID: -8498583740077880951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 962
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fd87e7cf00b38d0800000000000000
+      internalID: -2865695653437579515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 963
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da6ceb5d5513e220800000000000000
+      internalID: 2513876507721231059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 962
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b890bc03d7479b40800000000000000
+      internalID: 5446901246104475829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 962
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da483b0a06d263020800000000000000
+      internalID: 2321092550992299181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 962
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a481837516b471c0800000000000000
+      internalID: -4506777123842587488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 962
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ba6db0fa34b9ec0800000000000000
+      internalID: -3559176661409289349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 962
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa98715077d8f5080800000000000000
+      internalID: -9196476371741210193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 963
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0940ad004ae8f7c70800000000000000
+      internalID: 8971045817785386128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 963
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e1317c93d8b98c0800000000000000
+      internalID: -3991441365441241513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 898
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3436f1648d36bbb0800000000000000
+      internalID: -4920677904067185601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 897
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0297cd5fc93c35ac0800000000000000
+      internalID: -3867532576073942752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 896
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0c80358ebfcfeb0800000000000000
+      internalID: -4684592537128091455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 897
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ae584f6fec94b0800000000000000
+      internalID: -5432203789281089486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 898
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959eb4bf11cbf86d0800000000000000
+      internalID: -2985961242506827431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 897
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd0f054f35ae840800000000000000
+      internalID: 5254104224076193606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 896
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05a8c4b1306ce050800000000000000
+      internalID: 5831141384140662030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 897
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929c945822966f80800000000000000
+      internalID: -8113636976745475431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_34
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 898
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0fefc9437453080800000000000000
+      internalID: -9208375571791286072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 834
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a5e6c8f5c566770800000000000000
+      internalID: 8603665703585602203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 834
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fbe57fb65fe0f60800000000000000
+      internalID: 8002603431944437643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 834
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a675f2fb33c9f4eb0800000000000000
+      internalID: -4733392937278285974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 835
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb64f21e459822550800000000000000
+      internalID: 6134616640080266939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 835
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46387871c92c3d050800000000000000
+      internalID: 5824212718785626980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c726bc37ba0efe0800000000000000
+      internalID: -1161740190039770028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 834
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8713752800f320800000000000000
+      internalID: 2589578742675770504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 834
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf855235ae4b62640800000000000000
+      internalID: 5054926550280263931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 834
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430049cc79f040e30800000000000000
+      internalID: 4468713874905104436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 770
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ee0f69bd29b380800000000000000
+      internalID: -8955076109594074033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 770
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5210c02fa8d2970800000000000000
+      internalID: 8731788024729380274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 770
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6ca639a18da6c70800000000000000
+      internalID: 8965215616888391340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 770
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa7c08bd9e95d60800000000000000
+      internalID: 7879586152029071898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 770
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14600036d88cf910800000000000000
+      internalID: 1872521998588994591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 770
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b132ff53b9d70f0800000000000000
+      internalID: -1117566476301952232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 770
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edfc58f8e60927a0800000000000000
+      internalID: -6401577797661426208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_51
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 769
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9cbbe6addf00ea0800000000000000
+      internalID: -5908443596507592199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_52
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 769
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315eefdd6477739e0800000000000000
+      internalID: -1641712392897370861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 705
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e99d714c6072b50800000000000000
+      internalID: 6568226020826652201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 706
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9ed65ae3a4f9af0800000000000000
+      internalID: -387509410006701572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 706
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5654c1f755a22a760800000000000000
+      internalID: 7467577678826849637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 707
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9020a591d804c10800000000000000
+      internalID: 2035782171595246006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 707
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3d6cf637aa55f0800000000000000
+      internalID: -767116931908158121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 707
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46469b8364c660d20800000000000000
+      internalID: 3244399630422205540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 706
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e19d6c59e8680a40800000000000000
+      internalID: 5334629110107705829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_60
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 706
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea93cccb52c08270800000000000000
+      internalID: 8250808216875932399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 706
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515830a8444906e0800000000000000
+      internalID: -1870889091479350958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 642
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef034c74274e9c00800000000000000
+      internalID: 909242396804583404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 641
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf0ea93371cf6b0800000000000000
+      internalID: -5261304754266375008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 640
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea577856c6f8cbe0800000000000000
+      internalID: -1456643147706180893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 641
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f6eb7e86050ad50800000000000000
+      internalID: 6746480653295841114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 642
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f4a640a8f45bc30800000000000000
+      internalID: 4374490067258462097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 641
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a7428b2087ea60800000000000000
+      internalID: 7703266611998206171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 640
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e81e0cf34cefded0800000000000000
+      internalID: -2386929500747327261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_69
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 641
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa6ec312b1bf4f20800000000000000
+      internalID: 3409138821337344674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_70
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 642
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b7220a26b96ac50800000000000000
+      internalID: 6676194345519053580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aec342efbb09dc0800000000000000
+      internalID: -3634198199083931098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 579
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba977f61d5d7070800000000000000
+      internalID: 8105737257559370503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 578
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f162fbe54ff340d0800000000000000
+      internalID: -3439625014604570124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 578
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46cb213b7524c00800000000000000
+      internalID: 883364903543137498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_75
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 578
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8073aacb51decce0800000000000000
+      internalID: -1382937843384225652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 578
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4787ffe08067ef0800000000000000
+      internalID: -110892280315349831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 578
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04878741430ceba40800000000000000
+      internalID: 5385953534295963712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 579
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682e1709e7fe5a30800000000000000
+      internalID: 4206071682229479533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_79
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 579
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b55cb07cf1695a0800000000000000
+      internalID: -6514984871188407551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6313638e0d3667c40800000000000000
+      internalID: 5509700943034593590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 514
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b487471619a470800000000000000
+      internalID: 8406274468703679402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 514
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5882e28f70b9d90800000000000000
+      internalID: -7090064425857022518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 514
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14073d3aed3ccee80800000000000000
+      internalID: -8147922264821370815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_84
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 514
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694b89ca4b6bd240800000000000000
+      internalID: 4817562195355978090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 514
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c56c925887a0d80800000000000000
+      internalID: -8283676051267756913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_86
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 514
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cff149bc3cf168e0800000000000000
+      internalID: -1701801846432989242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 514
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb1eaa0ce3d4b60800000000000000
+      internalID: 7731905132486574071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 449
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c4a9a99eec34d0800000000000000
+      internalID: -3153383295322635038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 450
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201994e2dfe1de130800000000000000
+      internalID: 3597565750091026690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_90
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 450
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55868702b25fbb0800000000000000
+      internalID: -4902965200863865385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 450
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878d887370c3dd890800000000000000
+      internalID: -7431717808397297544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_92
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 450
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f92a6e95bd10920800000000000000
+      internalID: 2954884009699745563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_93
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 450
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e86d49ab51e8c00800000000000000
+      internalID: 904684466253237847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 450
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3e5b4c23370ee0800000000000000
+      internalID: -1295010102509683062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_95
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 450
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407765bf82bb2ae00800000000000000
+      internalID: 1054611047447951108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 385
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d7265eea4aec0f0800000000000000
+      internalID: -1094756588324749983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_97
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 386
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d8c4e85685dd40800000000000000
+      internalID: 5608536627313431456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 386
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4981c7425fdbdda0800000000000000
+      internalID: -5918891740764206769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f4f8741747b5d70800000000000000
+      internalID: 9032941507502362520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_100
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 386
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9010b4b6609cf75a0800000000000000
+      internalID: -6521272706002124535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_101
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 386
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb571786d7f15c0800000000000000
+      internalID: -4242534436426105314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_102
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 386
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704a115ba6be7f10800000000000000
+      internalID: 2269452109157646458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_103
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 386
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5681fa5a5c93e90800000000000000
+      internalID: -7045382826646542913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d628dae2d339135d0800000000000000
+      internalID: -3084522378786667923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 322
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e2bc791282bdb50800000000000000
+      internalID: 6618928202096782857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_106
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 322
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cebf778e4abc4e10800000000000000
+      internalID: 2183324765811359427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_107
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 322
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027665cdca538aa0800000000000000
+      internalID: -6159980025486085628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_108
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 322
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713c05577a6d1a5b0800000000000000
+      internalID: -5358766066878069993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_109
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 322
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6449f25a4355dc0800000000000000
+      internalID: -3650954038841424185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_110
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 322
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d54f574778d38a0800000000000000
+      internalID: -6323749367493403324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_111
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 322
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c77f1e7b18082e0800000000000000
+      internalID: -2125556397348783084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_112
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5a8bc6ee9ae9370800000000000000
+      internalID: 8331283202173347297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a4b73fc51035f50800000000000000
+      internalID: 6868835355403700802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_114
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 256
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e186cdd107712050800000000000000
+      internalID: 5774027047165133286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_115
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4306e291420475340800000000000000
+      internalID: 4852417647300468788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_116
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 255
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57d3d27a6d992ea0800000000000000
+      internalID: -5897009156546373795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 255
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b886039a80eab0800000000000000
+      internalID: -4980828823797319523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_118
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 258
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad3f43526a02c10800000000000000
+      internalID: 2026802511049120337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_119
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 255
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2dd6d8948028bc0800000000000000
+      internalID: -3782451625039375701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_120
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 258
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d36a0d99e67f530800000000000000
+      internalID: 3888698410167319939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 255
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b27042ef028e970800000000000000
+      internalID: 8784307349084384019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_122
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 255
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8836663e9a56b0800000000000000
+      internalID: -5306755254422303033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_123
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 255
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cae2025a8a71c40800000000000000
+      internalID: 5483036498509868107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_124
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 255
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff339f1ff0cc6fa70800000000000000
+      internalID: 8860493685754246143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_125
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 255
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe371b37ed7449400800000000000000
+      internalID: 329967693454210031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_126
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 255
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f1249059293a6d0800000000000000
+      internalID: -2980377359586025641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_127
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 256
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ac19bb40639490800000000000000
+      internalID: -7740737456175274346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_128
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 257
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826d8e1dc84ab230800000000000000
+      internalID: 3655314093382656649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_129
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b2298a46dbbbbe0800000000000000
+      internalID: -1460365414129063033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_130
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 193
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5a031b84533b20800000000000000
+      internalID: 3112924723739778111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_131
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 192
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134bdab65ab77940800000000000000
+      internalID: 5293904768662192922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_132
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 191
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c16d9f3908d0a0800000000000000
+      internalID: -6856720263843559010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_133
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 191
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312523e967c272c80800000000000000
+      internalID: -8347654496336063981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_134
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d796ba6e63f339c80800000000000000
+      internalID: -8317234581792396931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_135
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 194
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0910aea5056736610800000000000000
+      internalID: 1613263179023516048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_136
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16678422cc4145090800000000000000
+      internalID: -8046783767223175583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_137
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5018cb9897ac60ef0800000000000000
+      internalID: -142203714864905979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_138
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40f7545644f76670800000000000000
+      internalID: 8532056601976631373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_139
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 191
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a1e642d179cb630800000000000000
+      internalID: 3944193525090753088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_140
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 191
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef084420475e9d480800000000000000
+      internalID: -8873809304339840770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_141
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34b10832d167760800000000000000
+      internalID: 7455178271468766164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_142
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 191
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13daa463b1d6ad8d0800000000000000
+      internalID: -2820822252951786191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_143
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 191
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220b933877a25c30800000000000000
+      internalID: 4346720725069660705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_144
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 192
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ecf6ff4290c7c40800000000000000
+      internalID: 5511290098503634432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_145
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 193
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c37e901d4643330800000000000000
+      internalID: 3689684843700370471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_146
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3676a5ae7497f0aa0800000000000000
+      internalID: -6192597612829710493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 130
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813dbf339436750a0800000000000000
+      internalID: -6892931538611350760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_148
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a3892f2aef4890800000000000000
+      internalID: -7471495768503508575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_149
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 130
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69972e2a1a1c6e10800000000000000
+      internalID: 2192155818368407919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_150
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da006314238a380800000000000000
+      internalID: -8959856202993324655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_151
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 130
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac677d2ffc7f567f0800000000000000
+      internalID: -619816901189077302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_152
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 130
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc4a110f9d52d120800000000000000
+      internalID: 2437113285860543698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_153
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 130
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845963480260fea0800000000000000
+      internalID: -5841060929069296506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_154
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 130
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b2fd26a4852660800000000000000
+      internalID: 7360435015277261789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_155
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 130
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615c75c73197eb840800000000000000
+      internalID: 5241760140903302422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 130
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97cffe02157644f0800000000000000
+      internalID: -844859159663884386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 130
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20f7286989a7f80800000000000000
+      internalID: -8108000406925278496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_158
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 130
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43a1cbf54d66b190800000000000000
+      internalID: -7947044345104719029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_159
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 130
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48539389475f4e160800000000000000
+      internalID: 7054032797487936900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_160
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 130
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1355fabbd8aa54e30800000000000000
+      internalID: 4487180129460507953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_161
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 130
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098a8c8e21b980f0800000000000000
+      internalID: -1114164619312985847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_162
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 130
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f53c48941cd790800000000000000
+      internalID: -7504100234759899133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70c098af1aaab70800000000000000
+      internalID: 8911112910119110644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_164
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979fa920693471cd0800000000000000
+      internalID: -2587525149333194375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_165
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32896fda0571658a0800000000000000
+      internalID: -6316835792057100253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee70a421e2a9104c0800000000000000
+      internalID: -4323004644632950802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_167
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 66
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb590b98a6e86610800000000000000
+      internalID: 1614794078242298868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_168
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 66
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f5403e3a8edb20800000000000000
+      internalID: 3161115988163164087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_169
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29b87f9681580b0800000000000000
+      internalID: -5727144507727965516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_170
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 66
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e59a93ebf149830800000000000000
+      internalID: 4076918464548789910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_171
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 66
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6086a22d2b9b9c550800000000000000
+      internalID: 6181676141224028166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_172
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092f97b0d1351490800000000000000
+      internalID: -7776254409081673461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_173
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf42b1f941b7200800000000000000
+      internalID: 178759283799030822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_174
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 66
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9e23b9e29655e0800000000000000
+      internalID: -1921186658595726747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_175
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 66
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c265a8739e95c8d30800000000000000
+      internalID: 4435018591247160876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_176
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 66
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c247f99c79b41b0800000000000000
+      internalID: -5671272413523596174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_177
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 66
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3355581caa67fcd0800000000000000
+      internalID: -2524431778742709445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_178
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 66
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8190dfb76dd8c67b0800000000000000
+      internalID: -5229649114941290216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_179
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 66
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addd98f686baa07a0800000000000000
+      internalID: -6410122654572225062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_180
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be34a04b4eb4440800000000000000
+      internalID: 4921278479749868444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_181
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b6788ded640930800000000000000
+      internalID: 4108529627032891574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_182
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8def415b3d8cc41d0800000000000000
+      internalID: -3365094009950896424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_183
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d18be565b2f74370800000000000000
+      internalID: 8306874898621104599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_184
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc365ca83b6ac90800000000000000
+      internalID: -7158837149060314172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_185
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4dd62f19483e430800000000000000
+      internalID: 3811035472057980075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_186
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e1e8fdd40e33ac0800000000000000
+      internalID: -3876508229168128418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_187
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb692da9e20c67c0800000000000000
+      internalID: -4076880360021333009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_188
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d4c573ec9f96fd0800000000000000
+      internalID: -2348071066609627784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_189
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 6
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031c63458aeb8f8e0800000000000000
+      internalID: -1659366832509370064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_190
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 6
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290437c7c8666ee60800000000000000
+      internalID: 7991187342384906386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_191
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 6
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44271d1261cd05570800000000000000
+      internalID: 8453498488189186628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opera_Artist_192
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 6
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5df921ccd46e0e0800000000000000
+      internalID: -2241018225689111098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Opera_Artist_0: 3280890610357214451
+      Opera_Artist_1: -59480362954207447
+      Opera_Artist_10: -5245766665332352734
+      Opera_Artist_100: -6521272706002124535
+      Opera_Artist_101: -4242534436426105314
+      Opera_Artist_102: 2269452109157646458
+      Opera_Artist_103: -7045382826646542913
+      Opera_Artist_104: -3084522378786667923
+      Opera_Artist_105: 6618928202096782857
+      Opera_Artist_106: 2183324765811359427
+      Opera_Artist_107: -6159980025486085628
+      Opera_Artist_108: -5358766066878069993
+      Opera_Artist_109: -3650954038841424185
+      Opera_Artist_11: -5474962586353114180
+      Opera_Artist_110: -6323749367493403324
+      Opera_Artist_111: -2125556397348783084
+      Opera_Artist_112: 8331283202173347297
+      Opera_Artist_113: 6868835355403700802
+      Opera_Artist_114: 5774027047165133286
+      Opera_Artist_115: 4852417647300468788
+      Opera_Artist_116: -5897009156546373795
+      Opera_Artist_117: -4980828823797319523
+      Opera_Artist_118: 2026802511049120337
+      Opera_Artist_119: -3782451625039375701
+      Opera_Artist_12: -1960020796974095436
+      Opera_Artist_120: 3888698410167319939
+      Opera_Artist_121: 8784307349084384019
+      Opera_Artist_122: -5306755254422303033
+      Opera_Artist_123: 5483036498509868107
+      Opera_Artist_124: 8860493685754246143
+      Opera_Artist_125: 329967693454210031
+      Opera_Artist_126: -2980377359586025641
+      Opera_Artist_127: -7740737456175274346
+      Opera_Artist_128: 3655314093382656649
+      Opera_Artist_129: -1460365414129063033
+      Opera_Artist_13: 5431898764981361300
+      Opera_Artist_130: 3112924723739778111
+      Opera_Artist_131: 5293904768662192922
+      Opera_Artist_132: -6856720263843559010
+      Opera_Artist_133: -8347654496336063981
+      Opera_Artist_134: -8317234581792396931
+      Opera_Artist_135: 1613263179023516048
+      Opera_Artist_136: -8046783767223175583
+      Opera_Artist_137: -142203714864905979
+      Opera_Artist_138: 8532056601976631373
+      Opera_Artist_139: 3944193525090753088
+      Opera_Artist_14: 6635588619079642746
+      Opera_Artist_140: -8873809304339840770
+      Opera_Artist_141: 7455178271468766164
+      Opera_Artist_142: -2820822252951786191
+      Opera_Artist_143: 4346720725069660705
+      Opera_Artist_144: 5511290098503634432
+      Opera_Artist_145: 3689684843700370471
+      Opera_Artist_146: -6192597612829710493
+      Opera_Artist_147: -6892931538611350760
+      Opera_Artist_148: -7471495768503508575
+      Opera_Artist_149: 2192155818368407919
+      Opera_Artist_15: 5346861123360761154
+      Opera_Artist_150: -8959856202993324655
+      Opera_Artist_151: -619816901189077302
+      Opera_Artist_152: 2437113285860543698
+      Opera_Artist_153: -5841060929069296506
+      Opera_Artist_154: 7360435015277261789
+      Opera_Artist_155: 5241760140903302422
+      Opera_Artist_156: -844859159663884386
+      Opera_Artist_157: -8108000406925278496
+      Opera_Artist_158: -7947044345104719029
+      Opera_Artist_159: 7054032797487936900
+      Opera_Artist_16: -8498583740077880951
+      Opera_Artist_160: 4487180129460507953
+      Opera_Artist_161: -1114164619312985847
+      Opera_Artist_162: -7504100234759899133
+      Opera_Artist_163: 8911112910119110644
+      Opera_Artist_164: -2587525149333194375
+      Opera_Artist_165: -6316835792057100253
+      Opera_Artist_166: -4323004644632950802
+      Opera_Artist_167: 1614794078242298868
+      Opera_Artist_168: 3161115988163164087
+      Opera_Artist_169: -5727144507727965516
+      Opera_Artist_17: -2865695653437579515
+      Opera_Artist_170: 4076918464548789910
+      Opera_Artist_171: 6181676141224028166
+      Opera_Artist_172: -7776254409081673461
+      Opera_Artist_173: 178759283799030822
+      Opera_Artist_174: -1921186658595726747
+      Opera_Artist_175: 4435018591247160876
+      Opera_Artist_176: -5671272413523596174
+      Opera_Artist_177: -2524431778742709445
+      Opera_Artist_178: -5229649114941290216
+      Opera_Artist_179: -6410122654572225062
+      Opera_Artist_18: 2513876507721231059
+      Opera_Artist_180: 4921278479749868444
+      Opera_Artist_181: 4108529627032891574
+      Opera_Artist_182: -3365094009950896424
+      Opera_Artist_183: 8306874898621104599
+      Opera_Artist_184: -7158837149060314172
+      Opera_Artist_185: 3811035472057980075
+      Opera_Artist_186: -3876508229168128418
+      Opera_Artist_187: -4076880360021333009
+      Opera_Artist_188: -2348071066609627784
+      Opera_Artist_189: -1659366832509370064
+      Opera_Artist_19: 5446901246104475829
+      Opera_Artist_190: 7991187342384906386
+      Opera_Artist_191: 8453498488189186628
+      Opera_Artist_192: -2241018225689111098
+      Opera_Artist_2: -6439145260652470752
+      Opera_Artist_20: 2321092550992299181
+      Opera_Artist_21: -4506777123842587488
+      Opera_Artist_22: -3559176661409289349
+      Opera_Artist_23: -9196476371741210193
+      Opera_Artist_24: 8971045817785386128
+      Opera_Artist_25: -3991441365441241513
+      Opera_Artist_26: -4920677904067185601
+      Opera_Artist_27: -3867532576073942752
+      Opera_Artist_28: -4684592537128091455
+      Opera_Artist_29: -5432203789281089486
+      Opera_Artist_3: 7619875002120687161
+      Opera_Artist_30: -2985961242506827431
+      Opera_Artist_31: 5254104224076193606
+      Opera_Artist_32: 5831141384140662030
+      Opera_Artist_33: -8113636976745475431
+      Opera_Artist_34: -9208375571791286072
+      Opera_Artist_35: 8603665703585602203
+      Opera_Artist_36: 8002603431944437643
+      Opera_Artist_37: -4733392937278285974
+      Opera_Artist_38: 6134616640080266939
+      Opera_Artist_39: 5824212718785626980
+      Opera_Artist_4: -3012383744976020720
+      Opera_Artist_40: -1161740190039770028
+      Opera_Artist_41: 2589578742675770504
+      Opera_Artist_42: 5054926550280263931
+      Opera_Artist_43: 4468713874905104436
+      Opera_Artist_44: -8955076109594074033
+      Opera_Artist_45: 8731788024729380274
+      Opera_Artist_46: 8965215616888391340
+      Opera_Artist_47: 7879586152029071898
+      Opera_Artist_48: 1872521998588994591
+      Opera_Artist_49: -1117566476301952232
+      Opera_Artist_5: 7663869608181287168
+      Opera_Artist_50: -6401577797661426208
+      Opera_Artist_51: -5908443596507592199
+      Opera_Artist_52: -1641712392897370861
+      Opera_Artist_53: 6568226020826652201
+      Opera_Artist_54: -387509410006701572
+      Opera_Artist_55: 7467577678826849637
+      Opera_Artist_56: 2035782171595246006
+      Opera_Artist_57: -767116931908158121
+      Opera_Artist_58: 3244399630422205540
+      Opera_Artist_59: 5334629110107705829
+      Opera_Artist_6: 1090028659530251222
+      Opera_Artist_60: 8250808216875932399
+      Opera_Artist_61: -1870889091479350958
+      Opera_Artist_62: 909242396804583404
+      Opera_Artist_63: -5261304754266375008
+      Opera_Artist_64: -1456643147706180893
+      Opera_Artist_65: 6746480653295841114
+      Opera_Artist_66: 4374490067258462097
+      Opera_Artist_67: 7703266611998206171
+      Opera_Artist_68: -2386929500747327261
+      Opera_Artist_69: 3409138821337344674
+      Opera_Artist_7: 7530554803289235427
+      Opera_Artist_70: 6676194345519053580
+      Opera_Artist_71: -3634198199083931098
+      Opera_Artist_72: 8105737257559370503
+      Opera_Artist_73: -3439625014604570124
+      Opera_Artist_74: 883364903543137498
+      Opera_Artist_75: -1382937843384225652
+      Opera_Artist_76: -110892280315349831
+      Opera_Artist_77: 5385953534295963712
+      Opera_Artist_78: 4206071682229479533
+      Opera_Artist_79: -6514984871188407551
+      Opera_Artist_8: -5280842795968706464
+      Opera_Artist_80: 5509700943034593590
+      Opera_Artist_81: 8406274468703679402
+      Opera_Artist_82: -7090064425857022518
+      Opera_Artist_83: -8147922264821370815
+      Opera_Artist_84: 4817562195355978090
+      Opera_Artist_85: -8283676051267756913
+      Opera_Artist_86: -1701801846432989242
+      Opera_Artist_87: 7731905132486574071
+      Opera_Artist_88: -3153383295322635038
+      Opera_Artist_89: 3597565750091026690
+      Opera_Artist_9: 4183943497764079200
+      Opera_Artist_90: -4902965200863865385
+      Opera_Artist_91: -7431717808397297544
+      Opera_Artist_92: 2954884009699745563
+      Opera_Artist_93: 904684466253237847
+      Opera_Artist_94: -1295010102509683062
+      Opera_Artist_95: 1054611047447951108
+      Opera_Artist_96: -1094756588324749983
+      Opera_Artist_97: 5608536627313431456
+      Opera_Artist_98: -5918891740764206769
+      Opera_Artist_99: 9032941507502362520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

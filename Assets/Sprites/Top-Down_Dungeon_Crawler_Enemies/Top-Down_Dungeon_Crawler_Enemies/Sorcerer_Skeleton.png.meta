@@ -1,0 +1,6175 @@
+fileFormatVersion: 2
+guid: f0033d5fd07399a439e0b0ca26119494
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1640447824771329865
+    second: Sorcerer_Skeleton_0
+  - first:
+      213: -4373747943907390021
+    second: Sorcerer_Skeleton_1
+  - first:
+      213: 4287824994125846462
+    second: Sorcerer_Skeleton_2
+  - first:
+      213: 5459218694959050831
+    second: Sorcerer_Skeleton_3
+  - first:
+      213: -2933500784637129594
+    second: Sorcerer_Skeleton_4
+  - first:
+      213: 734413222257043734
+    second: Sorcerer_Skeleton_5
+  - first:
+      213: 8913123075069275873
+    second: Sorcerer_Skeleton_6
+  - first:
+      213: -7670557857780049912
+    second: Sorcerer_Skeleton_7
+  - first:
+      213: -3549346547248398340
+    second: Sorcerer_Skeleton_8
+  - first:
+      213: -7656290431000096094
+    second: Sorcerer_Skeleton_9
+  - first:
+      213: 8618424576252292720
+    second: Sorcerer_Skeleton_10
+  - first:
+      213: 2233445153442312529
+    second: Sorcerer_Skeleton_11
+  - first:
+      213: -7493752126247067153
+    second: Sorcerer_Skeleton_12
+  - first:
+      213: -290120236875547479
+    second: Sorcerer_Skeleton_13
+  - first:
+      213: -635272277937608506
+    second: Sorcerer_Skeleton_14
+  - first:
+      213: -7745524756697809644
+    second: Sorcerer_Skeleton_15
+  - first:
+      213: 6954654588505415150
+    second: Sorcerer_Skeleton_16
+  - first:
+      213: 8640520923722905324
+    second: Sorcerer_Skeleton_17
+  - first:
+      213: -3207895567830590781
+    second: Sorcerer_Skeleton_18
+  - first:
+      213: 6020144402407325501
+    second: Sorcerer_Skeleton_19
+  - first:
+      213: -3625275519526107606
+    second: Sorcerer_Skeleton_20
+  - first:
+      213: -8971384194467706395
+    second: Sorcerer_Skeleton_21
+  - first:
+      213: 5957527230098627733
+    second: Sorcerer_Skeleton_22
+  - first:
+      213: 4685889709468824068
+    second: Sorcerer_Skeleton_23
+  - first:
+      213: 2895835792620372556
+    second: Sorcerer_Skeleton_24
+  - first:
+      213: -2857622426662632448
+    second: Sorcerer_Skeleton_25
+  - first:
+      213: 1625040698671296559
+    second: Sorcerer_Skeleton_26
+  - first:
+      213: 1565446320755447499
+    second: Sorcerer_Skeleton_27
+  - first:
+      213: 2783837963693610334
+    second: Sorcerer_Skeleton_28
+  - first:
+      213: -5293077790370659583
+    second: Sorcerer_Skeleton_29
+  - first:
+      213: 2026043300213607714
+    second: Sorcerer_Skeleton_30
+  - first:
+      213: -6875592710674758687
+    second: Sorcerer_Skeleton_31
+  - first:
+      213: 136068616751745304
+    second: Sorcerer_Skeleton_32
+  - first:
+      213: -5632435161022624722
+    second: Sorcerer_Skeleton_33
+  - first:
+      213: -3374062077816780544
+    second: Sorcerer_Skeleton_34
+  - first:
+      213: 4979815317304972449
+    second: Sorcerer_Skeleton_35
+  - first:
+      213: -6282721808124618323
+    second: Sorcerer_Skeleton_36
+  - first:
+      213: -455458812520919994
+    second: Sorcerer_Skeleton_37
+  - first:
+      213: 8299529303191580019
+    second: Sorcerer_Skeleton_38
+  - first:
+      213: -2353859048106905889
+    second: Sorcerer_Skeleton_39
+  - first:
+      213: 4511003665378654650
+    second: Sorcerer_Skeleton_40
+  - first:
+      213: -1720792832731982532
+    second: Sorcerer_Skeleton_41
+  - first:
+      213: -7254257900674788488
+    second: Sorcerer_Skeleton_42
+  - first:
+      213: 216455750034161539
+    second: Sorcerer_Skeleton_43
+  - first:
+      213: -4476860772100630050
+    second: Sorcerer_Skeleton_44
+  - first:
+      213: 6498909419853289583
+    second: Sorcerer_Skeleton_45
+  - first:
+      213: 3247186504991480302
+    second: Sorcerer_Skeleton_46
+  - first:
+      213: -6630167883921386621
+    second: Sorcerer_Skeleton_47
+  - first:
+      213: -7761152988603134163
+    second: Sorcerer_Skeleton_48
+  - first:
+      213: -8980185262626014227
+    second: Sorcerer_Skeleton_49
+  - first:
+      213: -5612275087610900135
+    second: Sorcerer_Skeleton_50
+  - first:
+      213: 7742615199058737662
+    second: Sorcerer_Skeleton_51
+  - first:
+      213: 2942188932504323836
+    second: Sorcerer_Skeleton_52
+  - first:
+      213: 2761297068207561535
+    second: Sorcerer_Skeleton_53
+  - first:
+      213: 7469800273353000297
+    second: Sorcerer_Skeleton_54
+  - first:
+      213: 4936772156140753857
+    second: Sorcerer_Skeleton_55
+  - first:
+      213: 589562487036583139
+    second: Sorcerer_Skeleton_56
+  - first:
+      213: -5201635723799952458
+    second: Sorcerer_Skeleton_57
+  - first:
+      213: -598023097681473437
+    second: Sorcerer_Skeleton_58
+  - first:
+      213: -1123715839930673483
+    second: Sorcerer_Skeleton_59
+  - first:
+      213: 2612372435660238342
+    second: Sorcerer_Skeleton_60
+  - first:
+      213: -2372225443069727024
+    second: Sorcerer_Skeleton_61
+  - first:
+      213: 1270495121571963706
+    second: Sorcerer_Skeleton_62
+  - first:
+      213: -8819847921647813313
+    second: Sorcerer_Skeleton_63
+  - first:
+      213: -4234391315856014976
+    second: Sorcerer_Skeleton_64
+  - first:
+      213: -5962927356112840005
+    second: Sorcerer_Skeleton_65
+  - first:
+      213: 8481573633189819202
+    second: Sorcerer_Skeleton_66
+  - first:
+      213: 7519876359534266017
+    second: Sorcerer_Skeleton_67
+  - first:
+      213: 5203161736879267397
+    second: Sorcerer_Skeleton_68
+  - first:
+      213: 3326774632867629389
+    second: Sorcerer_Skeleton_69
+  - first:
+      213: -7214841379761823236
+    second: Sorcerer_Skeleton_70
+  - first:
+      213: 203714645629369243
+    second: Sorcerer_Skeleton_71
+  - first:
+      213: -7793326919753296015
+    second: Sorcerer_Skeleton_72
+  - first:
+      213: -197606975310784522
+    second: Sorcerer_Skeleton_73
+  - first:
+      213: 1341421345360873825
+    second: Sorcerer_Skeleton_74
+  - first:
+      213: 4452130602650357550
+    second: Sorcerer_Skeleton_75
+  - first:
+      213: -7513708595191525299
+    second: Sorcerer_Skeleton_76
+  - first:
+      213: -3871560442269303396
+    second: Sorcerer_Skeleton_77
+  - first:
+      213: -1576657184507176266
+    second: Sorcerer_Skeleton_78
+  - first:
+      213: 4735710392425837260
+    second: Sorcerer_Skeleton_79
+  - first:
+      213: -1941885444244007044
+    second: Sorcerer_Skeleton_80
+  - first:
+      213: -8203935687574444509
+    second: Sorcerer_Skeleton_81
+  - first:
+      213: 6502306275746439219
+    second: Sorcerer_Skeleton_82
+  - first:
+      213: -2256865872995769648
+    second: Sorcerer_Skeleton_83
+  - first:
+      213: -8943802757100374428
+    second: Sorcerer_Skeleton_84
+  - first:
+      213: 4120354617516250927
+    second: Sorcerer_Skeleton_85
+  - first:
+      213: 3280925913083149340
+    second: Sorcerer_Skeleton_86
+  - first:
+      213: -2338081250402567737
+    second: Sorcerer_Skeleton_87
+  - first:
+      213: -911061159644108395
+    second: Sorcerer_Skeleton_88
+  - first:
+      213: -7057148724754194183
+    second: Sorcerer_Skeleton_89
+  - first:
+      213: -7428633398689715000
+    second: Sorcerer_Skeleton_90
+  - first:
+      213: -2861261802736841488
+    second: Sorcerer_Skeleton_91
+  - first:
+      213: 9100027328454936502
+    second: Sorcerer_Skeleton_92
+  - first:
+      213: 1259586339092543987
+    second: Sorcerer_Skeleton_93
+  - first:
+      213: 5901046293252084720
+    second: Sorcerer_Skeleton_94
+  - first:
+      213: -5218129346551496652
+    second: Sorcerer_Skeleton_95
+  - first:
+      213: 552764134284118709
+    second: Sorcerer_Skeleton_96
+  - first:
+      213: 4060512793089967713
+    second: Sorcerer_Skeleton_97
+  - first:
+      213: 5327268591080514471
+    second: Sorcerer_Skeleton_98
+  - first:
+      213: -8882699261852849243
+    second: Sorcerer_Skeleton_99
+  - first:
+      213: 5369259924512807179
+    second: Sorcerer_Skeleton_100
+  - first:
+      213: -2649362521842395724
+    second: Sorcerer_Skeleton_101
+  - first:
+      213: -3900529844722534593
+    second: Sorcerer_Skeleton_102
+  - first:
+      213: -3535935094899281214
+    second: Sorcerer_Skeleton_103
+  - first:
+      213: 6994362549031133440
+    second: Sorcerer_Skeleton_104
+  - first:
+      213: -8737544587376500500
+    second: Sorcerer_Skeleton_105
+  - first:
+      213: -833041609309038854
+    second: Sorcerer_Skeleton_106
+  - first:
+      213: 2733495975416598477
+    second: Sorcerer_Skeleton_107
+  - first:
+      213: -7372052299858624407
+    second: Sorcerer_Skeleton_108
+  - first:
+      213: -5582667828592951153
+    second: Sorcerer_Skeleton_109
+  - first:
+      213: 1996771126770797810
+    second: Sorcerer_Skeleton_110
+  - first:
+      213: 3193740661866982775
+    second: Sorcerer_Skeleton_111
+  - first:
+      213: 3088938082818152044
+    second: Sorcerer_Skeleton_112
+  - first:
+      213: 5469757471486716934
+    second: Sorcerer_Skeleton_113
+  - first:
+      213: 877424000169403202
+    second: Sorcerer_Skeleton_114
+  - first:
+      213: 2687864781928140937
+    second: Sorcerer_Skeleton_115
+  - first:
+      213: -3402471017198793707
+    second: Sorcerer_Skeleton_116
+  - first:
+      213: 7006594222133743624
+    second: Sorcerer_Skeleton_117
+  - first:
+      213: -1922780395457334696
+    second: Sorcerer_Skeleton_118
+  - first:
+      213: -2577074650516484090
+    second: Sorcerer_Skeleton_119
+  - first:
+      213: 7555607744133843562
+    second: Sorcerer_Skeleton_120
+  - first:
+      213: -5487625427174953
+    second: Sorcerer_Skeleton_121
+  - first:
+      213: 5166943069643377263
+    second: Sorcerer_Skeleton_122
+  - first:
+      213: -6465943263610556357
+    second: Sorcerer_Skeleton_123
+  - first:
+      213: -528572548839686331
+    second: Sorcerer_Skeleton_124
+  - first:
+      213: -2647068804527730259
+    second: Sorcerer_Skeleton_125
+  - first:
+      213: -5798087895504319956
+    second: Sorcerer_Skeleton_126
+  - first:
+      213: -1163101810356576877
+    second: Sorcerer_Skeleton_127
+  - first:
+      213: -4055738330698810661
+    second: Sorcerer_Skeleton_128
+  - first:
+      213: 8682777835642736414
+    second: Sorcerer_Skeleton_129
+  - first:
+      213: -3121335738831268436
+    second: Sorcerer_Skeleton_130
+  - first:
+      213: 2180719944083839267
+    second: Sorcerer_Skeleton_131
+  - first:
+      213: -5213975699383825101
+    second: Sorcerer_Skeleton_132
+  - first:
+      213: -2844499190923283227
+    second: Sorcerer_Skeleton_133
+  - first:
+      213: 2314419572916684148
+    second: Sorcerer_Skeleton_134
+  - first:
+      213: -7058369919038174924
+    second: Sorcerer_Skeleton_135
+  - first:
+      213: -5276999131285538179
+    second: Sorcerer_Skeleton_136
+  - first:
+      213: -36624168582304483
+    second: Sorcerer_Skeleton_137
+  - first:
+      213: 3145911159336763274
+    second: Sorcerer_Skeleton_138
+  - first:
+      213: -120494700868471042
+    second: Sorcerer_Skeleton_139
+  - first:
+      213: 6700781826626746279
+    second: Sorcerer_Skeleton_140
+  - first:
+      213: 4623882442458775410
+    second: Sorcerer_Skeleton_141
+  - first:
+      213: -7333419432321330219
+    second: Sorcerer_Skeleton_142
+  - first:
+      213: -7894200875849685760
+    second: Sorcerer_Skeleton_143
+  - first:
+      213: -7474447488616575274
+    second: Sorcerer_Skeleton_144
+  - first:
+      213: -8704120508536992162
+    second: Sorcerer_Skeleton_145
+  - first:
+      213: 3439018111617917225
+    second: Sorcerer_Skeleton_146
+  - first:
+      213: 8466807202681299589
+    second: Sorcerer_Skeleton_147
+  - first:
+      213: 5062926186142878954
+    second: Sorcerer_Skeleton_148
+  - first:
+      213: 8600583064010689542
+    second: Sorcerer_Skeleton_149
+  - first:
+      213: 6843830107071917679
+    second: Sorcerer_Skeleton_150
+  - first:
+      213: -6146975204799997648
+    second: Sorcerer_Skeleton_151
+  - first:
+      213: -1002916263513384013
+    second: Sorcerer_Skeleton_152
+  - first:
+      213: 8920527283161045967
+    second: Sorcerer_Skeleton_153
+  - first:
+      213: -6579200765018955037
+    second: Sorcerer_Skeleton_154
+  - first:
+      213: 5713627477541765311
+    second: Sorcerer_Skeleton_155
+  - first:
+      213: 9114760054017989327
+    second: Sorcerer_Skeleton_156
+  - first:
+      213: -4112092931614471682
+    second: Sorcerer_Skeleton_157
+  - first:
+      213: -8442736816468016407
+    second: Sorcerer_Skeleton_158
+  - first:
+      213: -4033848922621144210
+    second: Sorcerer_Skeleton_159
+  - first:
+      213: -44442675232427187
+    second: Sorcerer_Skeleton_160
+  - first:
+      213: -5265009720163123872
+    second: Sorcerer_Skeleton_161
+  - first:
+      213: 3794024780351708715
+    second: Sorcerer_Skeleton_162
+  - first:
+      213: 4973741526534284302
+    second: Sorcerer_Skeleton_163
+  - first:
+      213: -4828966158617615158
+    second: Sorcerer_Skeleton_164
+  - first:
+      213: -8648723400134622688
+    second: Sorcerer_Skeleton_165
+  - first:
+      213: 8599153317301360862
+    second: Sorcerer_Skeleton_166
+  - first:
+      213: -6262596589533651776
+    second: Sorcerer_Skeleton_167
+  - first:
+      213: 9134475254350893105
+    second: Sorcerer_Skeleton_168
+  - first:
+      213: -6062108600412345141
+    second: Sorcerer_Skeleton_169
+  - first:
+      213: 3623800525797613880
+    second: Sorcerer_Skeleton_170
+  - first:
+      213: -5720316136822096328
+    second: Sorcerer_Skeleton_171
+  - first:
+      213: -3847381483966733046
+    second: Sorcerer_Skeleton_172
+  - first:
+      213: -5602370820278059816
+    second: Sorcerer_Skeleton_173
+  - first:
+      213: 4159173638584569120
+    second: Sorcerer_Skeleton_174
+  - first:
+      213: -1832903244865354209
+    second: Sorcerer_Skeleton_175
+  - first:
+      213: -7393269978452021182
+    second: Sorcerer_Skeleton_176
+  - first:
+      213: -5290214015219168517
+    second: Sorcerer_Skeleton_177
+  - first:
+      213: -2604709292273031027
+    second: Sorcerer_Skeleton_178
+  - first:
+      213: -4121549192121490759
+    second: Sorcerer_Skeleton_179
+  - first:
+      213: 6458223320359756301
+    second: Sorcerer_Skeleton_180
+  - first:
+      213: 7112354760201159322
+    second: Sorcerer_Skeleton_181
+  - first:
+      213: 9029180601753520219
+    second: Sorcerer_Skeleton_182
+  - first:
+      213: 3637762650843742718
+    second: Sorcerer_Skeleton_183
+  - first:
+      213: -213247680131163847
+    second: Sorcerer_Skeleton_184
+  - first:
+      213: 182765452367375518
+    second: Sorcerer_Skeleton_185
+  - first:
+      213: -7833760924072663950
+    second: Sorcerer_Skeleton_186
+  - first:
+      213: -8620108786776115635
+    second: Sorcerer_Skeleton_187
+  - first:
+      213: -2536396584657324043
+    second: Sorcerer_Skeleton_188
+  - first:
+      213: 8553893193137214184
+    second: Sorcerer_Skeleton_189
+  - first:
+      213: 3376156101523648643
+    second: Sorcerer_Skeleton_190
+  - first:
+      213: 3463596802182270593
+    second: Sorcerer_Skeleton_191
+  - first:
+      213: -9015248348247681294
+    second: Sorcerer_Skeleton_192
+  - first:
+      213: 8910984685076393868
+    second: Sorcerer_Skeleton_193
+  - first:
+      213: 4243012386465817095
+    second: Sorcerer_Skeleton_194
+  - first:
+      213: -852009562102753452
+    second: Sorcerer_Skeleton_195
+  - first:
+      213: 8527527103426465804
+    second: Sorcerer_Skeleton_196
+  - first:
+      213: -4239024769476056107
+    second: Sorcerer_Skeleton_197
+  - first:
+      213: -4946751409087667777
+    second: Sorcerer_Skeleton_198
+  - first:
+      213: -4330857756004743557
+    second: Sorcerer_Skeleton_199
+  - first:
+      213: -3754279647403953650
+    second: Sorcerer_Skeleton_200
+  - first:
+      213: -3435014932337015789
+    second: Sorcerer_Skeleton_201
+  - first:
+      213: -832916061474357247
+    second: Sorcerer_Skeleton_202
+  - first:
+      213: 6143946848167024174
+    second: Sorcerer_Skeleton_203
+  - first:
+      213: -3021290801652947163
+    second: Sorcerer_Skeleton_204
+  - first:
+      213: 2520371742479082468
+    second: Sorcerer_Skeleton_205
+  - first:
+      213: 7821934000822065704
+    second: Sorcerer_Skeleton_206
+  - first:
+      213: 5573218340961592786
+    second: Sorcerer_Skeleton_207
+  - first:
+      213: 4852564870342641488
+    second: Sorcerer_Skeleton_208
+  - first:
+      213: -4826073360490695904
+    second: Sorcerer_Skeleton_209
+  - first:
+      213: 4990768787534050488
+    second: Sorcerer_Skeleton_210
+  - first:
+      213: 1749774302617916107
+    second: Sorcerer_Skeleton_211
+  - first:
+      213: -7414367565553041644
+    second: Sorcerer_Skeleton_212
+  - first:
+      213: 4234372921551481810
+    second: Sorcerer_Skeleton_213
+  - first:
+      213: -7892854614658270054
+    second: Sorcerer_Skeleton_214
+  - first:
+      213: 1574321836061488621
+    second: Sorcerer_Skeleton_215
+  - first:
+      213: 98553236401657239
+    second: Sorcerer_Skeleton_216
+  - first:
+      213: 5448733200099811308
+    second: Sorcerer_Skeleton_217
+  - first:
+      213: -397829304284604983
+    second: Sorcerer_Skeleton_218
+  - first:
+      213: -2617247924213074342
+    second: Sorcerer_Skeleton_219
+  - first:
+      213: -7536724399060882279
+    second: Sorcerer_Skeleton_220
+  - first:
+      213: -2104523329703098046
+    second: Sorcerer_Skeleton_221
+  - first:
+      213: -322045951781493037
+    second: Sorcerer_Skeleton_222
+  - first:
+      213: 3082369620056810740
+    second: Sorcerer_Skeleton_223
+  - first:
+      213: 1983461144712438978
+    second: Sorcerer_Skeleton_224
+  - first:
+      213: -4651746334729619768
+    second: Sorcerer_Skeleton_225
+  - first:
+      213: -6049309087912859749
+    second: Sorcerer_Skeleton_226
+  - first:
+      213: 3814697423830258197
+    second: Sorcerer_Skeleton_227
+  - first:
+      213: 5961192947855946909
+    second: Sorcerer_Skeleton_228
+  - first:
+      213: -3204086308666847633
+    second: Sorcerer_Skeleton_229
+  - first:
+      213: 8474868665639461548
+    second: Sorcerer_Skeleton_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 969
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b051f31565fb39e0800000000000000
+      internalID: -1640447824771329865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 968
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd0e4a0b635d43c0800000000000000
+      internalID: -4373747943907390021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 968
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb799e14d1a618b30800000000000000
+      internalID: 4287824994125846462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 968
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b4389a7a03cb40800000000000000
+      internalID: 5459218694959050831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 968
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ccf57249c1a47d0800000000000000
+      internalID: -2933500784637129594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 968
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6192bfe3fe8213a00800000000000000
+      internalID: 734413222257043734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 968
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee67d88636c1bb70800000000000000
+      internalID: 8913123075069275873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 968
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80850f9c444bc8590800000000000000
+      internalID: -7670557857780049912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 921
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffff7ade103ebec0800000000000000
+      internalID: -3549346547248398340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 921
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a25403fa646fb590800000000000000
+      internalID: -7656290431000096094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 921
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ea30f5d7bca9770800000000000000
+      internalID: 8618424576252292720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 921
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1513f34a88acefe10800000000000000
+      internalID: 2233445153442312529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 921
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe127301528d00890800000000000000
+      internalID: -7493752126247067153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 921
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac71e28e2949fbf0800000000000000
+      internalID: -290120236875547479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 921
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c820e1aa3f0f27f0800000000000000
+      internalID: -635272277937608506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 921
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7806754e528490800000000000000
+      internalID: -7745524756697809644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 921
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd76b3085e38060800000000000000
+      internalID: 6954654588505415150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 921
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce675dc200c49e770800000000000000
+      internalID: 8640520923722905324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 921
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca58ea2af34b73d0800000000000000
+      internalID: -3207895567830590781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 921
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f7b0a1079db8350800000000000000
+      internalID: 6020144402407325501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 921
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a260abd5f1f60bdc0800000000000000
+      internalID: -3625275519526107606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 921
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9c2398b9d3f7380800000000000000
+      internalID: -8971384194467706395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 921
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cdeb193736da250800000000000000
+      internalID: 5957527230098627733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 921
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4023c852ddf970140800000000000000
+      internalID: 4685889709468824068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 921
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42cff28f43103820800000000000000
+      internalID: 2895835792620372556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 922
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00485941b8fa758d0800000000000000
+      internalID: -2857622426662632448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 922
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20fad5d7ed4d8610800000000000000
+      internalID: 1625040698671296559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 922
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61297722599b510800000000000000
+      internalID: 1565446320755447499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 939
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55543ae0ed22a620800000000000000
+      internalID: 2783837963693610334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 916
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10382782bc53b86b0800000000000000
+      internalID: -5293077790370659583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 916
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dcac8a5a3fd1c10800000000000000
+      internalID: 2026043300213607714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 923
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e347fbabdcf490a0800000000000000
+      internalID: -6875592710674758687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 916
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819019e9fa963e100800000000000000
+      internalID: 136068616751745304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 918
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c83de101295d1b0800000000000000
+      internalID: -5632435161022624722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 917
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0094d91ba6cec21d0800000000000000
+      internalID: -3374062077816780544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 916
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4130b95abdb1540800000000000000
+      internalID: 4979815317304972449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 918
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d1248dc94fc8a0800000000000000
+      internalID: -6282721808124618323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 919
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c8ed58f92eda9f0800000000000000
+      internalID: -455458812520919994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 920
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dedafade9dd2370800000000000000
+      internalID: 8299529303191580019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 921
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeaf32caa9655fd0800000000000000
+      internalID: -2353859048106905889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_40
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 921
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9316feeed4a9e30800000000000000
+      internalID: 4511003665378654650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 872
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35d8f829048e18e0800000000000000
+      internalID: -1720792832731982532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 872
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735531cfd2b35b90800000000000000
+      internalID: -7254257900674788488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 872
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f706a9b51010300800000000000000
+      internalID: 216455750034161539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 872
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed99f02e8defed1c0800000000000000
+      internalID: -4476860772100630050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 872
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689bc54fa3c03a50800000000000000
+      internalID: 6498909419853289583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 825
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee995750ce2501d20800000000000000
+      internalID: 3247186504991480302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 824
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38399ad0079ecf3a0800000000000000
+      internalID: -6630167883921386621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 842
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f49da2a78da4490800000000000000
+      internalID: -7761152988603134163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 823
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb7afb2519ff5380800000000000000
+      internalID: -8980185262626014227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 824
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9519d2dfa813d12b0800000000000000
+      internalID: -5612275087610900135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 825
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bf6c508b437b60800000000000000
+      internalID: 7742615199058737662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 825
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68108ee31c4d820800000000000000
+      internalID: 2942188932504323836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 842
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bd6d5bd09125620800000000000000
+      internalID: 2761297068207561535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 823
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965425c95cf0aa760800000000000000
+      internalID: 7469800273353000297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 824
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31fcfae10f28440800000000000000
+      internalID: 4936772156140753857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 825
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec16b455fb8e2800800000000000000
+      internalID: 589562487036583139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 777
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b30cef5ed310d7b0800000000000000
+      internalID: -5201635723799952458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 778
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360973f392563b7f0800000000000000
+      internalID: -598023097681473437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 775
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6d374b562c760f0800000000000000
+      internalID: -1123715839930673483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 776
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eec88a3e2014420800000000000000
+      internalID: 2612372435660238342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 777
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6fa23789241fd0800000000000000
+      internalID: -2372225443069727024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 778
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33e92ae494b1a110800000000000000
+      internalID: 1270495121571963706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 775
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df6397b0b999580800000000000000
+      internalID: -8819847921647813313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_64
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 776
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0814762788b6c35c0800000000000000
+      internalID: -4234391315856014976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 777
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba5f6d992d6f3da0800000000000000
+      internalID: -5962927356112840005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 729
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433996384a94b570800000000000000
+      internalID: 8481573633189819202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 729
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6c5ecf4b7fb5860800000000000000
+      internalID: 7519876359534266017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_68
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 729
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed79b3808553840800000000000000
+      internalID: 5203161736879267397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 729
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d490bdf07e31b2e20800000000000000
+      internalID: 3326774632867629389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 729
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e180bdfbbfdb90800000000000000
+      internalID: -7214841379761823236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 729
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7840146db3d200800000000000000
+      internalID: 203714645629369243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 729
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1779d91157a88d390800000000000000
+      internalID: -7793326919753296015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 729
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7167fb085f14df0800000000000000
+      internalID: -197606975310784522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 729
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1698c504b9fad9210800000000000000
+      internalID: 1341421345360873825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 681
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fce98d13529cd30800000000000000
+      internalID: 4452130602650357550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 680
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d405fcd87d1f9b790800000000000000
+      internalID: -7513708595191525299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 679
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d75184a44754ac0800000000000000
+      internalID: -3871560442269303396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 682
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad1e8e4a69e1ae0800000000000000
+      internalID: -1576657184507176266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 681
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2faa3d28f98b140800000000000000
+      internalID: 4735710392425837260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 680
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77955d1a790d05e0800000000000000
+      internalID: -1941885444244007044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_81
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 679
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a9fd55f3c52e80800000000000000
+      internalID: -8203935687574444509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 682
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330e8aa6b15dc3a50800000000000000
+      internalID: 6502306275746439219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 681
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2a26622700ea0e0800000000000000
+      internalID: -2256865872995769648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 633
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667fd957ca31e380800000000000000
+      internalID: -8943802757100374428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 650
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2752bda1b07e2930800000000000000
+      internalID: 4120354617516250927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_86
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 631
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cf1bf1cb0388d20800000000000000
+      internalID: 3280925913083149340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_87
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 630
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9f0cd8d777d8fd0800000000000000
+      internalID: -2338081250402567737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 631
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e1cac3b24b53f0800000000000000
+      internalID: -911061159644108395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 632
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0eced00a8ff0e90800000000000000
+      internalID: -7057148724754194183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_90
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 650
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc2f70584138e890800000000000000
+      internalID: -7428633398689715000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_91
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 631
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc0a7ecc81ca48d0800000000000000
+      internalID: -2861261802736841488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_92
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 629
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b747e624aac94e70800000000000000
+      internalID: 9100027328454936502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 631
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9bb811a13fa7110800000000000000
+      internalID: 1259586339092543987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_94
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 632
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f31d60b65ab4e150800000000000000
+      internalID: 5901046293252084720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 585
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c1c2910b7597b0800000000000000
+      internalID: -5218129346551496652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_96
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 584
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac49c2d00dba700800000000000000
+      internalID: 552764134284118709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_97
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 583
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1668e0e2fd6d95830800000000000000
+      internalID: 4060512793089967713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_98
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 586
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3237afe824ee940800000000000000
+      internalID: 5327268591080514471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 585
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe2aa75105ab480800000000000000
+      internalID: -8882699261852849243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_100
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 584
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09935b2471738a40800000000000000
+      internalID: 5369259924512807179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_101
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 583
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d954c2d29b3bd0800000000000000
+      internalID: -2649362521842395724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_102
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 586
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37f089a5c88ed9c0800000000000000
+      internalID: -3900529844722534593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_103
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 585
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2f0bfe3c5ddeec0800000000000000
+      internalID: -3535935094899281214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 537
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001eb4d3ea7f01160800000000000000
+      internalID: 6994362549031133440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_105
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 537
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06944cd710eb680800000000000000
+      internalID: -8737544587376500500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 537
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d30ae1117074f0800000000000000
+      internalID: -833041609309038854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_107
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 537
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf8aa16b145fe520800000000000000
+      internalID: 2733495975416598477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_108
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 537
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604359fd7531b990800000000000000
+      internalID: -7372052299858624407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_109
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 537
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8047b920316682b0800000000000000
+      internalID: -5582667828592951153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_110
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 537
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc0eeca2c4f5bb10800000000000000
+      internalID: 1996771126770797810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_111
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 537
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6d47f532725c20800000000000000
+      internalID: 3193740661866982775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_112
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 537
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665d8702dc1eda20800000000000000
+      internalID: 3088938082818152044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 489
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2187b07b78eb40800000000000000
+      internalID: 5469757471486716934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_114
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 490
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ef77ba7c3d2c00800000000000000
+      internalID: 877424000169403202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_115
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 487
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801c1b37c63d4520800000000000000
+      internalID: 2687864781928140937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_116
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 488
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ccd4d03aef7c0d0800000000000000
+      internalID: -3402471017198793707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 489
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800169f825c6c3160800000000000000
+      internalID: 7006594222133743624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_118
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 490
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8523eabea69e055e0800000000000000
+      internalID: -1922780395457334696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_119
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 487
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6001d4062446c3cd0800000000000000
+      internalID: -2577074650516484090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_120
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 488
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac9434639ead860800000000000000
+      internalID: 7555607744133843562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_121
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 489
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9b0c3a8018ceff0800000000000000
+      internalID: -5487625427174953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_122
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 433
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a82c0a85ba4b740800000000000000
+      internalID: 5166943069643377263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 433
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30b9aa1cda5446a0800000000000000
+      internalID: -6465943263610556357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 433
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f336c31122aa8f0800000000000000
+      internalID: -528572548839686331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_125
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 460
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15b1272f8b34bd0800000000000000
+      internalID: -2647068804527730259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_126
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 433
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a09f357cd098fa0800000000000000
+      internalID: -5798087895504319956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_127
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 460
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d151cd015dbdfe0800000000000000
+      internalID: -1163101810356576877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_128
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 433
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaf2c8f97f17b7c0800000000000000
+      internalID: -4055738330698810661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_129
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 460
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fce1d207c6f7870800000000000000
+      internalID: 8682777835642736414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_130
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 433
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca51b3edea9cea4d0800000000000000
+      internalID: -3121335738831268436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_131
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 460
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3291ab53c39734e10800000000000000
+      internalID: 2180719944083839267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_132
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 433
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d45bae9bc34a7b0800000000000000
+      internalID: -5213975699383825101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_133
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 460
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b1218e0f4688d0800000000000000
+      internalID: -2844499190923283227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_134
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 433
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47509e8d6587e1020800000000000000
+      internalID: 2314419572916684148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_135
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 460
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4394d6a94f1ab0e90800000000000000
+      internalID: -7058369919038174924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_136
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 433
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3ea3bf3554c6b0800000000000000
+      internalID: -5276999131285538179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_137
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 460
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d25714382ed7ff0800000000000000
+      internalID: -36624168582304483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_138
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 433
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f743b188588ab20800000000000000
+      internalID: 3145911159336763274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_139
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 433
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fa6d35bae35ef0800000000000000
+      internalID: -120494700868471042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_140
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 433
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7fa7da195fdfc50800000000000000
+      internalID: 6700781826626746279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_141
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 445
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fbbe145945b2040800000000000000
+      internalID: 4623882442458775410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_142
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 445
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d35a8361e57a3a90800000000000000
+      internalID: -7333419432321330219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_143
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 393
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e661f02a227290800000000000000
+      internalID: -7894200875849685760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_144
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 393
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec2b44c9d654890800000000000000
+      internalID: -7474447488616575274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_145
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 393
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec57e8380c43780800000000000000
+      internalID: -8704120508536992162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_146
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 390
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ee1770c8d9bf20800000000000000
+      internalID: 3439018111617917225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_147
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 390
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582a981ba44208570800000000000000
+      internalID: 8466807202681299589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 392
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecc111ba80234640800000000000000
+      internalID: 5062926186142878954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_149
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 393
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c09979ab86b5770800000000000000
+      internalID: 8600583064010689542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_150
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 393
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2523e83b2afe50800000000000000
+      internalID: 6843830107071917679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 345
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03913ca8e9e81baa0800000000000000
+      internalID: -6146975204799997648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_152
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb92d5d8fce412f0800000000000000
+      internalID: -1002916263513384013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_153
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 345
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9ef11d441ccb70800000000000000
+      internalID: 8920527283161045967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_154
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 343
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2211723cbf1b4a0800000000000000
+      internalID: -6579200765018955037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_155
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 343
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c9c13be1ea4f40800000000000000
+      internalID: 5713627477541765311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_156
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 345
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca99a02af12e7e70800000000000000
+      internalID: 9114760054017989327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_157
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 345
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef989b7f349eee6c0800000000000000
+      internalID: -4112092931614471682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_158
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 345
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2cf42d89f55da80800000000000000
+      internalID: -8442736816468016407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 297
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e631391f6c3e408c0800000000000000
+      internalID: -4033848922621144210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_160
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 297
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4337e15f9b126ff0800000000000000
+      internalID: -44442675232427187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_161
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 297
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db2b20e8deee6b0800000000000000
+      internalID: -5265009720163123872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_162
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 297
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e94e5af6517a430800000000000000
+      internalID: 3794024780351708715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_163
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046fadf097460540800000000000000
+      internalID: 4973741526534284302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_164
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 297
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e63b1dd01cfcb0800000000000000
+      internalID: -4828966158617615158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_165
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 297
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0220e56f3ef89f780800000000000000
+      internalID: -8648723400134622688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_166
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 297
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed89edeb164565770800000000000000
+      internalID: 8599153317301360862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_167
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc164d1599c619a0800000000000000
+      internalID: -6262596589533651776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_168
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 249
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1305e29e8dc24ce70800000000000000
+      internalID: 9134475254350893105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_169
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 249
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce49aa8501fdba0800000000000000
+      internalID: -6062108600412345141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_170
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 249
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316a05e0635a4230800000000000000
+      internalID: 3623800525797613880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_171
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 249
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eb8c5f7ca5d90b0800000000000000
+      internalID: -5720316136822096328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_172
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 249
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a056fb4bcea5b9ac0800000000000000
+      internalID: -3847381483966733046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_173
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcff4deb616042b0800000000000000
+      internalID: -5602370820278059816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_174
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 249
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8007536a58b930800000000000000
+      internalID: 4159173638584569120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_175
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 201
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c32eb5383096e0800000000000000
+      internalID: -1832903244865354209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_176
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 201
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240bec53024d56990800000000000000
+      internalID: -7393269978452021182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_177
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8115c1626596b0800000000000000
+      internalID: -5290214015219168517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_178
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 201
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8828e2f2b63adbd0800000000000000
+      internalID: -2604709292273031027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_179
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 188
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2ec4fb8d05dc6c0800000000000000
+      internalID: -4121549192121490759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_180
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 201
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02ef2a84e730a950800000000000000
+      internalID: 6458223320359756301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_181
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 201
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a924956b8f824b260800000000000000
+      internalID: 7112354760201159322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_182
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 201
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58cd5c2be71e4d70800000000000000
+      internalID: 9029180601753520219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 153
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef189b47bddeb7230800000000000000
+      internalID: 3637762650843742718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_184
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 153
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9391b906d546a0df0800000000000000
+      internalID: -213247680131163847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_185
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 153
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c2299e530598200800000000000000
+      internalID: 182765452367375518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_186
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2742051d1f3e84390800000000000000
+      internalID: -7833760924072663950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_187
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 153
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d467cfecab83f5880800000000000000
+      internalID: -8620108786776115635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_188
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 153
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f77cf1aeb8ecccd0800000000000000
+      internalID: -2536396584657324043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_189
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 153
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25397e98885b670800000000000000
+      internalID: 8553893193137214184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_190
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 153
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b59136148ade20800000000000000
+      internalID: 3376156101523648643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_191
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec04fc0fa211030800000000000000
+      internalID: 3463596802182270593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_192
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 105
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f615c0646763e280800000000000000
+      internalID: -9015248348247681294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_193
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8face0db5d2aab70800000000000000
+      internalID: 8910984685076393868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_194
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 105
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702a0e8f84532ea30800000000000000
+      internalID: 4243012386465817095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_195
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 105
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45711a141dd0d24f0800000000000000
+      internalID: -852009562102753452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_196
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 105
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00104448bcd75670800000000000000
+      internalID: 8527527103426465804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_197
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 105
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2c457e65fb25c0800000000000000
+      internalID: -4239024769476056107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_198
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 105
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1aa2d6dcb995bb0800000000000000
+      internalID: -4946751409087667777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_199
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 57
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76879811d3b5e3c0800000000000000
+      internalID: -4330857756004743557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_200
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 57
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02320d3d8e16ebc0800000000000000
+      internalID: -3754279647403953650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_201
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314c3e75e106450d0800000000000000
+      internalID: -3435014932337015789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_202
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1008a1c4143e074f0800000000000000
+      internalID: -832916061474357247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_203
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 55
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2650eb3b1fa34550800000000000000
+      internalID: 6143946848167024174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_204
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 57
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527225cf5083216d0800000000000000
+      internalID: -3021290801652947163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_205
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 57
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e56c0fb82af220800000000000000
+      internalID: 2520371742479082468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_206
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 57
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a9c8708871d8c60800000000000000
+      internalID: 7821934000822065704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_207
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d525bc8d8c085d40800000000000000
+      internalID: 5573218340961592786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_208
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05700522a06c75340800000000000000
+      internalID: 4852564870342641488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_209
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023f9f729d7560db0800000000000000
+      internalID: -4826073360490695904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_210
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f21125c5c24540800000000000000
+      internalID: 4990768787534050488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_211
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d5a02572784810800000000000000
+      internalID: 1749774302617916107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_212
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f780d6bffda1990800000000000000
+      internalID: -7414367565553041644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_213
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 16
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbeb9bccb383ca30800000000000000
+      internalID: 4234372921551481810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_214
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cbd7dcb82f67290800000000000000
+      internalID: -7892854614658270054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_215
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f5986e5d19d510800000000000000
+      internalID: 1574321836061488621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_216
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7959f2775a12e5100800000000000000
+      internalID: 98553236401657239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_217
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef93d31af9cd9b40800000000000000
+      internalID: 5448733200099811308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_218
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c510e40b50aa7af0800000000000000
+      internalID: -397829304284604983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_219
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56b62431eaadabd0800000000000000
+      internalID: -2617247924213074342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_220
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 5
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce4ff171d286790800000000000000
+      internalID: -7536724399060882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_221
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249468f8e2b3bc2e0800000000000000
+      internalID: -2104523329703098046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_222
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d626b2c9ecd78bf0800000000000000
+      internalID: -322045951781493037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_223
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 8
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f421fd96d6c6ca20800000000000000
+      internalID: 3082369620056810740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_224
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4ef5cf66ba68b10800000000000000
+      internalID: 1983461144712438978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_225
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c63735ca5da17fb0800000000000000
+      internalID: -4651746334729619768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_226
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9769666f698c0ca0800000000000000
+      internalID: -6049309087912859749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_227
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5121009881780f430800000000000000
+      internalID: 3814697423830258197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_228
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 4
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94748ef6696ab250800000000000000
+      internalID: 5961192947855946909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_229
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e483e6a7cc883d0800000000000000
+      internalID: -3204086308666847633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcerer_Skeleton_230
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2678d4628cc9570800000000000000
+      internalID: 8474868665639461548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sorcerer_Skeleton_0: -1640447824771329865
+      Sorcerer_Skeleton_1: -4373747943907390021
+      Sorcerer_Skeleton_10: 8618424576252292720
+      Sorcerer_Skeleton_100: 5369259924512807179
+      Sorcerer_Skeleton_101: -2649362521842395724
+      Sorcerer_Skeleton_102: -3900529844722534593
+      Sorcerer_Skeleton_103: -3535935094899281214
+      Sorcerer_Skeleton_104: 6994362549031133440
+      Sorcerer_Skeleton_105: -8737544587376500500
+      Sorcerer_Skeleton_106: -833041609309038854
+      Sorcerer_Skeleton_107: 2733495975416598477
+      Sorcerer_Skeleton_108: -7372052299858624407
+      Sorcerer_Skeleton_109: -5582667828592951153
+      Sorcerer_Skeleton_11: 2233445153442312529
+      Sorcerer_Skeleton_110: 1996771126770797810
+      Sorcerer_Skeleton_111: 3193740661866982775
+      Sorcerer_Skeleton_112: 3088938082818152044
+      Sorcerer_Skeleton_113: 5469757471486716934
+      Sorcerer_Skeleton_114: 877424000169403202
+      Sorcerer_Skeleton_115: 2687864781928140937
+      Sorcerer_Skeleton_116: -3402471017198793707
+      Sorcerer_Skeleton_117: 7006594222133743624
+      Sorcerer_Skeleton_118: -1922780395457334696
+      Sorcerer_Skeleton_119: -2577074650516484090
+      Sorcerer_Skeleton_12: -7493752126247067153
+      Sorcerer_Skeleton_120: 7555607744133843562
+      Sorcerer_Skeleton_121: -5487625427174953
+      Sorcerer_Skeleton_122: 5166943069643377263
+      Sorcerer_Skeleton_123: -6465943263610556357
+      Sorcerer_Skeleton_124: -528572548839686331
+      Sorcerer_Skeleton_125: -2647068804527730259
+      Sorcerer_Skeleton_126: -5798087895504319956
+      Sorcerer_Skeleton_127: -1163101810356576877
+      Sorcerer_Skeleton_128: -4055738330698810661
+      Sorcerer_Skeleton_129: 8682777835642736414
+      Sorcerer_Skeleton_13: -290120236875547479
+      Sorcerer_Skeleton_130: -3121335738831268436
+      Sorcerer_Skeleton_131: 2180719944083839267
+      Sorcerer_Skeleton_132: -5213975699383825101
+      Sorcerer_Skeleton_133: -2844499190923283227
+      Sorcerer_Skeleton_134: 2314419572916684148
+      Sorcerer_Skeleton_135: -7058369919038174924
+      Sorcerer_Skeleton_136: -5276999131285538179
+      Sorcerer_Skeleton_137: -36624168582304483
+      Sorcerer_Skeleton_138: 3145911159336763274
+      Sorcerer_Skeleton_139: -120494700868471042
+      Sorcerer_Skeleton_14: -635272277937608506
+      Sorcerer_Skeleton_140: 6700781826626746279
+      Sorcerer_Skeleton_141: 4623882442458775410
+      Sorcerer_Skeleton_142: -7333419432321330219
+      Sorcerer_Skeleton_143: -7894200875849685760
+      Sorcerer_Skeleton_144: -7474447488616575274
+      Sorcerer_Skeleton_145: -8704120508536992162
+      Sorcerer_Skeleton_146: 3439018111617917225
+      Sorcerer_Skeleton_147: 8466807202681299589
+      Sorcerer_Skeleton_148: 5062926186142878954
+      Sorcerer_Skeleton_149: 8600583064010689542
+      Sorcerer_Skeleton_15: -7745524756697809644
+      Sorcerer_Skeleton_150: 6843830107071917679
+      Sorcerer_Skeleton_151: -6146975204799997648
+      Sorcerer_Skeleton_152: -1002916263513384013
+      Sorcerer_Skeleton_153: 8920527283161045967
+      Sorcerer_Skeleton_154: -6579200765018955037
+      Sorcerer_Skeleton_155: 5713627477541765311
+      Sorcerer_Skeleton_156: 9114760054017989327
+      Sorcerer_Skeleton_157: -4112092931614471682
+      Sorcerer_Skeleton_158: -8442736816468016407
+      Sorcerer_Skeleton_159: -4033848922621144210
+      Sorcerer_Skeleton_16: 6954654588505415150
+      Sorcerer_Skeleton_160: -44442675232427187
+      Sorcerer_Skeleton_161: -5265009720163123872
+      Sorcerer_Skeleton_162: 3794024780351708715
+      Sorcerer_Skeleton_163: 4973741526534284302
+      Sorcerer_Skeleton_164: -4828966158617615158
+      Sorcerer_Skeleton_165: -8648723400134622688
+      Sorcerer_Skeleton_166: 8599153317301360862
+      Sorcerer_Skeleton_167: -6262596589533651776
+      Sorcerer_Skeleton_168: 9134475254350893105
+      Sorcerer_Skeleton_169: -6062108600412345141
+      Sorcerer_Skeleton_17: 8640520923722905324
+      Sorcerer_Skeleton_170: 3623800525797613880
+      Sorcerer_Skeleton_171: -5720316136822096328
+      Sorcerer_Skeleton_172: -3847381483966733046
+      Sorcerer_Skeleton_173: -5602370820278059816
+      Sorcerer_Skeleton_174: 4159173638584569120
+      Sorcerer_Skeleton_175: -1832903244865354209
+      Sorcerer_Skeleton_176: -7393269978452021182
+      Sorcerer_Skeleton_177: -5290214015219168517
+      Sorcerer_Skeleton_178: -2604709292273031027
+      Sorcerer_Skeleton_179: -4121549192121490759
+      Sorcerer_Skeleton_18: -3207895567830590781
+      Sorcerer_Skeleton_180: 6458223320359756301
+      Sorcerer_Skeleton_181: 7112354760201159322
+      Sorcerer_Skeleton_182: 9029180601753520219
+      Sorcerer_Skeleton_183: 3637762650843742718
+      Sorcerer_Skeleton_184: -213247680131163847
+      Sorcerer_Skeleton_185: 182765452367375518
+      Sorcerer_Skeleton_186: -7833760924072663950
+      Sorcerer_Skeleton_187: -8620108786776115635
+      Sorcerer_Skeleton_188: -2536396584657324043
+      Sorcerer_Skeleton_189: 8553893193137214184
+      Sorcerer_Skeleton_19: 6020144402407325501
+      Sorcerer_Skeleton_190: 3376156101523648643
+      Sorcerer_Skeleton_191: 3463596802182270593
+      Sorcerer_Skeleton_192: -9015248348247681294
+      Sorcerer_Skeleton_193: 8910984685076393868
+      Sorcerer_Skeleton_194: 4243012386465817095
+      Sorcerer_Skeleton_195: -852009562102753452
+      Sorcerer_Skeleton_196: 8527527103426465804
+      Sorcerer_Skeleton_197: -4239024769476056107
+      Sorcerer_Skeleton_198: -4946751409087667777
+      Sorcerer_Skeleton_199: -4330857756004743557
+      Sorcerer_Skeleton_2: 4287824994125846462
+      Sorcerer_Skeleton_20: -3625275519526107606
+      Sorcerer_Skeleton_200: -3754279647403953650
+      Sorcerer_Skeleton_201: -3435014932337015789
+      Sorcerer_Skeleton_202: -832916061474357247
+      Sorcerer_Skeleton_203: 6143946848167024174
+      Sorcerer_Skeleton_204: -3021290801652947163
+      Sorcerer_Skeleton_205: 2520371742479082468
+      Sorcerer_Skeleton_206: 7821934000822065704
+      Sorcerer_Skeleton_207: 5573218340961592786
+      Sorcerer_Skeleton_208: 4852564870342641488
+      Sorcerer_Skeleton_209: -4826073360490695904
+      Sorcerer_Skeleton_21: -8971384194467706395
+      Sorcerer_Skeleton_210: 4990768787534050488
+      Sorcerer_Skeleton_211: 1749774302617916107
+      Sorcerer_Skeleton_212: -7414367565553041644
+      Sorcerer_Skeleton_213: 4234372921551481810
+      Sorcerer_Skeleton_214: -7892854614658270054
+      Sorcerer_Skeleton_215: 1574321836061488621
+      Sorcerer_Skeleton_216: 98553236401657239
+      Sorcerer_Skeleton_217: 5448733200099811308
+      Sorcerer_Skeleton_218: -397829304284604983
+      Sorcerer_Skeleton_219: -2617247924213074342
+      Sorcerer_Skeleton_22: 5957527230098627733
+      Sorcerer_Skeleton_220: -7536724399060882279
+      Sorcerer_Skeleton_221: -2104523329703098046
+      Sorcerer_Skeleton_222: -322045951781493037
+      Sorcerer_Skeleton_223: 3082369620056810740
+      Sorcerer_Skeleton_224: 1983461144712438978
+      Sorcerer_Skeleton_225: -4651746334729619768
+      Sorcerer_Skeleton_226: -6049309087912859749
+      Sorcerer_Skeleton_227: 3814697423830258197
+      Sorcerer_Skeleton_228: 5961192947855946909
+      Sorcerer_Skeleton_229: -3204086308666847633
+      Sorcerer_Skeleton_23: 4685889709468824068
+      Sorcerer_Skeleton_230: 8474868665639461548
+      Sorcerer_Skeleton_24: 2895835792620372556
+      Sorcerer_Skeleton_25: -2857622426662632448
+      Sorcerer_Skeleton_26: 1625040698671296559
+      Sorcerer_Skeleton_27: 1565446320755447499
+      Sorcerer_Skeleton_28: 2783837963693610334
+      Sorcerer_Skeleton_29: -5293077790370659583
+      Sorcerer_Skeleton_3: 5459218694959050831
+      Sorcerer_Skeleton_30: 2026043300213607714
+      Sorcerer_Skeleton_31: -6875592710674758687
+      Sorcerer_Skeleton_32: 136068616751745304
+      Sorcerer_Skeleton_33: -5632435161022624722
+      Sorcerer_Skeleton_34: -3374062077816780544
+      Sorcerer_Skeleton_35: 4979815317304972449
+      Sorcerer_Skeleton_36: -6282721808124618323
+      Sorcerer_Skeleton_37: -455458812520919994
+      Sorcerer_Skeleton_38: 8299529303191580019
+      Sorcerer_Skeleton_39: -2353859048106905889
+      Sorcerer_Skeleton_4: -2933500784637129594
+      Sorcerer_Skeleton_40: 4511003665378654650
+      Sorcerer_Skeleton_41: -1720792832731982532
+      Sorcerer_Skeleton_42: -7254257900674788488
+      Sorcerer_Skeleton_43: 216455750034161539
+      Sorcerer_Skeleton_44: -4476860772100630050
+      Sorcerer_Skeleton_45: 6498909419853289583
+      Sorcerer_Skeleton_46: 3247186504991480302
+      Sorcerer_Skeleton_47: -6630167883921386621
+      Sorcerer_Skeleton_48: -7761152988603134163
+      Sorcerer_Skeleton_49: -8980185262626014227
+      Sorcerer_Skeleton_5: 734413222257043734
+      Sorcerer_Skeleton_50: -5612275087610900135
+      Sorcerer_Skeleton_51: 7742615199058737662
+      Sorcerer_Skeleton_52: 2942188932504323836
+      Sorcerer_Skeleton_53: 2761297068207561535
+      Sorcerer_Skeleton_54: 7469800273353000297
+      Sorcerer_Skeleton_55: 4936772156140753857
+      Sorcerer_Skeleton_56: 589562487036583139
+      Sorcerer_Skeleton_57: -5201635723799952458
+      Sorcerer_Skeleton_58: -598023097681473437
+      Sorcerer_Skeleton_59: -1123715839930673483
+      Sorcerer_Skeleton_6: 8913123075069275873
+      Sorcerer_Skeleton_60: 2612372435660238342
+      Sorcerer_Skeleton_61: -2372225443069727024
+      Sorcerer_Skeleton_62: 1270495121571963706
+      Sorcerer_Skeleton_63: -8819847921647813313
+      Sorcerer_Skeleton_64: -4234391315856014976
+      Sorcerer_Skeleton_65: -5962927356112840005
+      Sorcerer_Skeleton_66: 8481573633189819202
+      Sorcerer_Skeleton_67: 7519876359534266017
+      Sorcerer_Skeleton_68: 5203161736879267397
+      Sorcerer_Skeleton_69: 3326774632867629389
+      Sorcerer_Skeleton_7: -7670557857780049912
+      Sorcerer_Skeleton_70: -7214841379761823236
+      Sorcerer_Skeleton_71: 203714645629369243
+      Sorcerer_Skeleton_72: -7793326919753296015
+      Sorcerer_Skeleton_73: -197606975310784522
+      Sorcerer_Skeleton_74: 1341421345360873825
+      Sorcerer_Skeleton_75: 4452130602650357550
+      Sorcerer_Skeleton_76: -7513708595191525299
+      Sorcerer_Skeleton_77: -3871560442269303396
+      Sorcerer_Skeleton_78: -1576657184507176266
+      Sorcerer_Skeleton_79: 4735710392425837260
+      Sorcerer_Skeleton_8: -3549346547248398340
+      Sorcerer_Skeleton_80: -1941885444244007044
+      Sorcerer_Skeleton_81: -8203935687574444509
+      Sorcerer_Skeleton_82: 6502306275746439219
+      Sorcerer_Skeleton_83: -2256865872995769648
+      Sorcerer_Skeleton_84: -8943802757100374428
+      Sorcerer_Skeleton_85: 4120354617516250927
+      Sorcerer_Skeleton_86: 3280925913083149340
+      Sorcerer_Skeleton_87: -2338081250402567737
+      Sorcerer_Skeleton_88: -911061159644108395
+      Sorcerer_Skeleton_89: -7057148724754194183
+      Sorcerer_Skeleton_9: -7656290431000096094
+      Sorcerer_Skeleton_90: -7428633398689715000
+      Sorcerer_Skeleton_91: -2861261802736841488
+      Sorcerer_Skeleton_92: 9100027328454936502
+      Sorcerer_Skeleton_93: 1259586339092543987
+      Sorcerer_Skeleton_94: 5901046293252084720
+      Sorcerer_Skeleton_95: -5218129346551496652
+      Sorcerer_Skeleton_96: 552764134284118709
+      Sorcerer_Skeleton_97: 4060512793089967713
+      Sorcerer_Skeleton_98: 5327268591080514471
+      Sorcerer_Skeleton_99: -8882699261852849243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
