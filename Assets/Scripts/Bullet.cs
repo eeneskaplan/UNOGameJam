@@ -21,21 +21,23 @@ public class Bullet : MonoBehaviour
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
         // Çarptýðýmýz obje Player ise kodu kes
-        if (hitInfo.CompareTag("Player"))
+        // Eðer mermi "Player" etiketiyle ateþlendiyse ve çarptýðý þey "Enemy" ise:
+        if (gameObject.CompareTag("PlayerBullet") && hitInfo.CompareTag("Enemy"))
         {
-            return;
+            hitInfo.GetComponent<Health>().TakeDamage(damage);
+            Destroy(gameObject);
+        }
+        // Eðer mermi "EnemyBullet" etiketiyle ateþlendiyse ve çarptýðý þey "Player" ise:
+        else if (gameObject.CompareTag("EnemyBullet") && hitInfo.CompareTag("Player"))
+        {
+            hitInfo.GetComponent<Health>().TakeDamage(damage);
+            Destroy(gameObject);
         }
 
-        // Çarptýðýmýz objede Health scripti var mý diye kontrol et
-        Health targetHealth = hitInfo.GetComponent<Health>();
 
-        // Eðer varsa ona 25 hasar ver
-        if (targetHealth != null)
+        else if (hitInfo.CompareTag("Wall"))
         {
-            targetHealth.TakeDamage(damage);
+            Destroy(gameObject);
         }
-
-        // Hasar versin veya vermesin, duvara/düþmana çarptýðý için mermiyi yok et
-        Destroy(gameObject);
     }
 }

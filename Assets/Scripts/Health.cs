@@ -38,8 +38,18 @@ public class Health : MonoBehaviour
         }
     }
 
+    // Health scriptinin içindeki Die metoduna þunu ekle:
     void Die()
     {
-        Destroy(gameObject);
+        // Eðer bu obje bir kamikaze düþmanýysa, patlama efektini çaðýrarak öl
+        DusmanKamikaze kamikaze = GetComponent<DusmanKamikaze>();
+        if (kamikaze != null)
+        {
+            kamikaze.Patla();
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 }
