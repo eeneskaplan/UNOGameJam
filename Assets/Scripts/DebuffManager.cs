@@ -78,19 +78,19 @@ public class DebuffManager : MonoBehaviour
         switch (aktifDebuff)
         {
             case ElementTuru.Ates:
-                playerAttack.fireRate = orijinalFireRate * 2f; // Daha yavaþ ateþ 
+                playerAttack.fireRate = orijinalFireRate * 1.75f; // Daha yavaþ ateþ 
                 break;
 
             case ElementTuru.Buz:
-                playerHealth.alinanHasarCarpani = 1.5f; // %50 daha fazla hasar yer
+                playerHealth.alinanHasarCarpani = 1.25f; // %50 daha fazla hasar yer
                 break;
 
             case ElementTuru.Duman:
-                playerMovement.moveSpeed = orijinalHiz * 0.5f; // Yarý hýzda yürür
+                playerMovement.moveSpeed = orijinalHiz * 0.75f; // Yarý hýzda yürür
                 break;
 
             case ElementTuru.Elektrik:
-                playerAttack.mermiHasari = Mathf.RoundToInt(orijinalHasar * 0.5f); // Hasarý yarýya düþer
+                playerAttack.mermiHasari = Mathf.RoundToInt(orijinalHasar * 0.75f); // Hasarý yarýya düþer
                 break;
         }
 

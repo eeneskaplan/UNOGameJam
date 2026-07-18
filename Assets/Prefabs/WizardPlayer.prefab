@@ -191,10 +191,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b779966cbbc4a624da511a9387846635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
-  bulletPrefab: {fileID: 8474215019242793659, guid: 31ca0b21a924a9247b797a5af6bafd4c, type: 3}
   firePoint: {fileID: 7951492870094496146}
   fireRate: 0.5
   mermiHasari: 25
+  mermiPrefablari:
+  - {fileID: 4595215453801421212, guid: a73b06477d987ae439d42f0f52eb199d, type: 3}
+  - {fileID: 4800140639608190292, guid: ea0f6c86d20a1cf47905c766a35d9a18, type: 3}
+  - {fileID: 4532680329504126484, guid: 54091f785616dd34a9f5818b697b9ff3, type: 3}
+  - {fileID: 8870111103453670746, guid: b2da9225fc53b8443998421c2ae46d67, type: 3}
 --- !u!114 &-6386042571192761011
 MonoBehaviour:
   m_ObjectHideFlags: 0

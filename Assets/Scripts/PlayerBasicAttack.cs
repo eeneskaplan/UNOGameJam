@@ -2,11 +2,35 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    public GameObject bulletPrefab; 
+    [Header("Atýþ Ayarlarý")]
     public Transform firePoint;     // Merminin çýkacaðý nokta
     public float fireRate = 0.5f;   // Ýki atýþ arasý bekleme süresi
     private float nextFireTime = 0f;
     public int mermiHasari = 25;
+
+    [Header("Element Mermileri (Sýrayla Koy!)")]
+    // 0: Ateþ, 1: Buz, 2: Duman, 3: Elektrik olacak þekilde inspector'dan sürükle
+    public GameObject[] mermiPrefablari;
+
+    private int aktifElementIndex = 0; // Varsayýlan element
+
+    void Start()
+    {
+        // Oyun baþýnda seçim ekranýnda kaydedilen elementi oku
+        if (PlayerPrefs.HasKey("IlkElement"))
+        {
+            aktifElementIndex = PlayerPrefs.GetInt("IlkElement");
+            // ATEÞ ELEMENTÝ (0) SEÇÝLDÝYSE HASARI 30 YAP
+            if (aktifElementIndex == 0)
+            {
+                mermiHasari = 30;
+            }
+            else
+            {
+                mermiHasari = 25; // Diðerleri için varsayýlan hasar
+            }
+        }
+    }
 
     void Update()
     {
@@ -24,12 +48,13 @@ public class PlayerAttack : MonoBehaviour
         Vector2 lookDirection = mousePosition - transform.position;
         float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg;
 
-        // Mermiyi oluþtur ve bir deðiþkene ata
-        GameObject yeniMermi = Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(0, 0, angle));
+        // 1. ESKÝSÝ YERÝNE YENÝSÝ: Tek mermi yerine, seçili elementin mermisini (prefabý) fýrlat
+        GameObject yeniMermi = Instantiate(mermiPrefablari[aktifElementIndex], firePoint.position, Quaternion.Euler(0, 0, angle));
 
-        // Merminin hasarýný, karakterin o anki hasarýna eþitle
+        // 2. Kendi yazdýðýn hasar aktarma sistemi (Bullet scriptine eriþim)
         yeniMermi.GetComponent<Bullet>().damage = mermiHasari;
 
+        // 3. Kendi yazdýðýn Debuff barýný doldurma sistemi
         GetComponent<DebuffManager>().AddToBar(false);
     }
 }

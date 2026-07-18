@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 4905a54f87613184798a923fe1b0937a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7642153223514907075
+    second: lightningAttack_0
+  - first:
+      213: -8743656169876818449
+    second: lightningAttack_1
+  - first:
+      213: 292387323633626059
+    second: lightningAttack_2
+  - first:
+      213: -4719240965714307181
+    second: lightningAttack_3
+  - first:
+      213: -7253356433008003365
+    second: lightningAttack_4
+  - first:
+      213: -3371632900836196424
+    second: lightningAttack_5
+  - first:
+      213: 2003971996260214696
+    second: lightningAttack_6
+  - first:
+      213: 8527322818988423626
+    second: lightningAttack_7
+  - first:
+      213: 7787491125852258861
+    second: lightningAttack_8
+  - first:
+      213: -6980739563080185142
+    second: lightningAttack_9
+  - first:
+      213: -5246634985261087802
+    second: lightningAttack_10
+  - first:
+      213: 342322347773112511
+    second: lightningAttack_11
+  - first:
+      213: -5989569554532013890
+    second: lightningAttack_12
+  - first:
+      213: 8637592500883264756
+    second: lightningAttack_13
+  - first:
+      213: 7129115926871223384
+    second: lightningAttack_14
+  - first:
+      213: 4304221226558635707
+    second: lightningAttack_15
+  - first:
+      213: -8857404879079683202
+    second: lightningAttack_16
+  - first:
+      213: -1009318573866471521
+    second: lightningAttack_17
+  - first:
+      213: 3529818247968607811
+    second: lightningAttack_18
+  - first:
+      213: 123047533916314282
+    second: lightningAttack_19
+  - first:
+      213: -8386028583804447662
+    second: lightningAttack_20
+  - first:
+      213: 2274102866120583449
+    second: lightningAttack_21
+  - first:
+      213: -8311529272410247713
+    second: lightningAttack_22
+  - first:
+      213: 6332530163192909098
+    second: lightningAttack_23
+  - first:
+      213: 8792106588898163956
+    second: lightningAttack_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightningAttack_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 640
+        width: 274
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9941122e91f590800000000000000
+      internalID: -7642153223514907075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 592
+        width: 341
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5f6541a0b48a680800000000000000
+      internalID: -8743656169876818449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_2
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 553
+        width: 410
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6202c8b4ce0400800000000000000
+      internalID: 292387323633626059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 626
+        width: 296
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39790256853e18eb0800000000000000
+      internalID: -4719240965714307181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 649
+        width: 281
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6734d01c6e65b90800000000000000
+      internalID: -7253356433008003365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 883
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf73a88dbd8531d0800000000000000
+      internalID: -3371632900836196424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 662
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7abe0c9e98fcb10800000000000000
+      internalID: 2003971996260214696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 865
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac933e69ce2275670800000000000000
+      internalID: 8527322818988423626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 769
+        width: 100
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d224ee74be9b21c60800000000000000
+      internalID: 7787491125852258861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 805
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca07195a5e6f1f90800000000000000
+      internalID: -6980739563080185142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 814
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3406d57453037b0800000000000000
+      internalID: -5246634985261087802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 814
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b1b19c5c20c400800000000000000
+      internalID: 342322347773112511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 787
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ef986936c0eca0800000000000000
+      internalID: -5989569554532013890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 769
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f499b99d94eed770800000000000000
+      internalID: 8637592500883264756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 782
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c2dbfe925bfe260800000000000000
+      internalID: 7129115926871223384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 757
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe39bb966aabbb30800000000000000
+      internalID: 4304221226558635707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 757
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bc4a6e03d241580800000000000000
+      internalID: -8857404879079683202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 745
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2c7bca1e2ef1f0800000000000000
+      internalID: -1009318573866471521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 742
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e4cd7aefe6cf030800000000000000
+      internalID: 3529818247968607811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_19
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 754
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaad195841725b100800000000000000
+      internalID: 123047533916314282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 694
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25450122f67de9b80800000000000000
+      internalID: -8386028583804447662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 676
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a0dd028c3f8f10800000000000000
+      internalID: 2274102866120583449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_22
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 694
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde9b1c92487ac80800000000000000
+      internalID: -8311529272410247713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_23
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 652
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4f8ad1aaa1e750800000000000000
+      internalID: 6332530163192909098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningAttack_24
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 638
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc75aa2c56d30a70800000000000000
+      internalID: 8792106588898163956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lightningAttack_0: -7642153223514907075
+      lightningAttack_1: -8743656169876818449
+      lightningAttack_10: -5246634985261087802
+      lightningAttack_11: 342322347773112511
+      lightningAttack_12: -5989569554532013890
+      lightningAttack_13: 8637592500883264756
+      lightningAttack_14: 7129115926871223384
+      lightningAttack_15: 4304221226558635707
+      lightningAttack_16: -8857404879079683202
+      lightningAttack_17: -1009318573866471521
+      lightningAttack_18: 3529818247968607811
+      lightningAttack_19: 123047533916314282
+      lightningAttack_2: 292387323633626059
+      lightningAttack_20: -8386028583804447662
+      lightningAttack_21: 2274102866120583449
+      lightningAttack_22: -8311529272410247713
+      lightningAttack_23: 6332530163192909098
+      lightningAttack_24: 8792106588898163956
+      lightningAttack_3: -4719240965714307181
+      lightningAttack_4: -7253356433008003365
+      lightningAttack_5: -3371632900836196424
+      lightningAttack_6: 2003971996260214696
+      lightningAttack_7: 8527322818988423626
+      lightningAttack_8: 7787491125852258861
+      lightningAttack_9: -6980739563080185142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

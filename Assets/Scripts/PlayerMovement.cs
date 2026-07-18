@@ -7,40 +7,45 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movement;
-    private Vector2 lastMoveDirection; // Karakter dururken dash atarsa son gittiði yöne atýlsýn diye
+    private Vector2 lastMoveDirection;
 
     [Header("Dash Ayarlarý")]
-    public float dashSpeed = 15f;      // Dash atarkenki hýz
-    public float dashDuration = 0.2f;  // Dash'in havada kalma süresi
-    public float dashCooldown = 1f;    // Yeniden dash atmak için bekleme süresi
+    public float dashSpeed = 15f;
+    public float dashDuration = 0.2f;
+    public float dashCooldown = 1f;
     private bool isDashing;
-    private bool canDash = true;
+
+    // YENÝ: Double Dash Sistemi
+    private int maxDashes = 1;         // Varsayýlan dash sayýsý
+    private int currentDashes;         // O an elimizde olan dash hakký
+    private bool isRecharging = false; // Dash dolum süreci aktif mi?
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
-        // Oyun baþýnda saða veya sola dash atabilmesi için varsayýlan bir yön belirliyoruz
         lastMoveDirection = new Vector2(1, 0);
+
+        // OYUN BAÞINDA DUMAN ELEMENTÝ (2) SEÇÝLDÝYSE DOUBLE DASH VER
+        if (PlayerPrefs.HasKey("IlkElement") && PlayerPrefs.GetInt("IlkElement") == 2)
+        {
+            maxDashes = 2;
+        }
+        currentDashes = maxDashes; // Baþlangýçta cephaneyi fullüyoruz
     }
 
     void Update()
     {
-        // Eðer karakter dash atýyorsa, dash bitene kadar klavyeden gelen diðer komutlarý yoksay
         if (isDashing) return;
 
-        // Girdileri al
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         movement = movement.normalized;
 
-        // Eðer karakter hareket ediyorsa, son gittiði yönü hafýzaya al
         if (movement.x != 0 || movement.y != 0)
         {
             lastMoveDirection = movement;
         }
 
-        // --- YÖN DÖNDÜRME (FLIP) ÝÞLEMÝ ---
         if (movement.x > 0)
         {
             transform.rotation = Quaternion.Euler(0, 0, 0);
@@ -50,8 +55,8 @@ public class PlayerMovement : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
 
-        // --- DASH TETÝKLEME ---
-        if (Input.GetKeyDown(KeyCode.Space) && canDash)
+        // YENÝ: canDash yerine currentDashes sayýsýný kontrol ediyoruz
+        if (Input.GetKeyDown(KeyCode.Space) && currentDashes > 0 && !isDashing)
         {
             StartCoroutine(DashRoutine());
         }
@@ -61,30 +66,40 @@ public class PlayerMovement : MonoBehaviour
     {
         if (isDashing)
         {
-            // Dash sýrasýndayken son yöne doðru yüksek hýzla fýrla
             rb.MovePosition(rb.position + lastMoveDirection * dashSpeed * Time.fixedDeltaTime);
         }
         else
         {
-            // Normal yürüyüþ
             rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
         }
     }
 
-    // Dash iþlemlerinin zamanlamasýný ayarlayan Coroutine
     private IEnumerator DashRoutine()
     {
-        canDash = false;
         isDashing = true;
+        currentDashes--; // Bir dash hakkýný harca
 
-        // Dash'in bitmesini bekle (Örn: 0.2 saniye boyunca hýzlý gidecek)
+        // Eðer arkada bir dolum iþlemi yoksa, dolumu baþlat
+        if (!isRecharging)
+        {
+            StartCoroutine(RechargeDashRoutine());
+        }
+
         yield return new WaitForSeconds(dashDuration);
-
         isDashing = false;
+    }
 
-        // Yeniden dash atabilmek için cooldown süresi kadar bekle (Örn: 1 saniye)
-        yield return new WaitForSeconds(dashCooldown);
+    // YENÝ: Dash haklarýný Cooldown süresine göre tek tek dolduran Coroutine
+    private IEnumerator RechargeDashRoutine()
+    {
+        isRecharging = true;
 
-        canDash = true;
+        while (currentDashes < maxDashes)
+        {
+            yield return new WaitForSeconds(dashCooldown);
+            currentDashes++;
+        }
+
+        isRecharging = false;
     }
 }
