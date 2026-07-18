@@ -3,19 +3,22 @@ using UnityEngine;
 
 public class DusmanDash : MonoBehaviour
 {
-    [Header("Hareket ve Dash Ayarlarý")]
-    public float normalHiz = 2f;         // Uzaktayken yürüme hýzý
-    public float dashHizi = 15f;         // Atýlma (Dash) hýzý
-    public float dashMenzili = 5f;       // Oyuncuya ne kadar yaklaþýnca dash atacaðý
-    public float dashHazirlikSuresi = 0.5f; // Atýlmadan önce durup güç toplama süresi
-    public float dashBeklemeSuresi = 1.5f;  // Dash attýktan sonraki yorgunluk/cooldown süresi
+    [Header("Hareket ve Dash Ayarlarï¿½")]
+    public float normalHiz = 2f;
+    public float dashHizi = 15f;
+    public float dashMenzili = 5f;
+    public float dashHazirlikSuresi = 0.5f;
+    public float dashBeklemeSuresi = 1.5f;
 
     private Transform oyuncu;
+    private Rigidbody2D rb; // Fï¿½Zï¿½K ï¿½ï¿½ï¿½N EKLENDï¿½
     private bool dashYapiliyorMu = false;
 
     void Start()
     {
-        // Oyuncuyu sahnede bul (Etiketinin "Player" olduðuna emin ol)
+        // Rï¿½Gï¿½DBODY Bï¿½LEï¿½ENï¿½Nï¿½ KODA BAï¿½LADIK
+        rb = GetComponent<Rigidbody2D>();
+
         GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
         if (playerObj != null)
         {
@@ -23,51 +26,49 @@ public class DusmanDash : MonoBehaviour
         }
     }
 
-    void Update()
+    // Fï¿½Zï¿½K ï¿½ï¿½LEMLERï¿½ ï¿½ï¿½ï¿½N UPDATE YERï¿½NE FIXEDUPDATE KULLANILIR
+    void FixedUpdate()
     {
-        // Eðer oyuncu yoksa veya o an dash iþlemi dönüyorsa normal hareketi iptal et
         if (oyuncu == null || dashYapiliyorMu) return;
 
-        // Oyuncuyla aramýzdaki mesafeyi ölç
-        float mesafe = Vector2.Distance(transform.position, oyuncu.position);
+        float mesafe = Vector2.Distance(rb.position, (Vector2)oyuncu.position);
 
         if (mesafe <= dashMenzili)
         {
-            // Oyuncu menzile girdiyse Dash rutini baþlat
             StartCoroutine(DashSistemi());
         }
         else
         {
-            // Menzilde deðilse normal normal üstüne yürü
-            transform.position = Vector2.MoveTowards(transform.position, oyuncu.position, normalHiz * Time.deltaTime);
+            // Fï¿½Zï¿½K KURALLARINA UYGUN NORMAL Yï¿½Rï¿½ME
+            Vector2 yeniPozisyon = Vector2.MoveTowards(rb.position, (Vector2)oyuncu.position, normalHiz * Time.fixedDeltaTime);
+            rb.MovePosition(yeniPozisyon);
         }
     }
 
     IEnumerator DashSistemi()
     {
-        dashYapiliyorMu = true; // Baþka hareket girmesin diye kilitliyoruz
+        dashYapiliyorMu = true;
 
-        // 1. AÞAMA: HAZIRLIK (Dur ve oyuncunun o anki yerini hedef al)
-        // Burada istersen düþmanýn rengini beyaz yapýp oyuncuyu uyarabilirsin
+        // Hazï¿½rlï¿½k aï¿½amasï¿½ - durmasï¿½nï¿½ garanti altï¿½na alalï¿½m ki kaymasï¿½n
         Vector2 dashYonu = (oyuncu.position - transform.position).normalized;
+        rb.linearVelocity = Vector2.zero;
         yield return new WaitForSeconds(dashHazirlikSuresi);
 
-        // 2. AÞAMA: DASH ATMA (Kýsa bir süre boyunca o yöne çok hýzlý git)
-        float dashSuresi = 0.2f; // Dash'in havada kalma süresi (çok kýsa olmalý)
+        float dashSuresi = 0.2f;
         float gecenSure = 0f;
 
         while (gecenSure < dashSuresi)
         {
-            // transform.position üzerinden direkt atýlma
-            transform.position += (Vector3)(dashYonu * dashHizi * Time.deltaTime);
-            gecenSure += Time.deltaTime;
-            yield return null; // Bir sonraki kareyi (frame) bekle
+            // Fï¿½Zï¿½K KURALLARINA UYGUN DASH ATMA
+            rb.MovePosition(rb.position + dashYonu * dashHizi * Time.fixedDeltaTime);
+            gecenSure += Time.fixedDeltaTime;
+
+            // Frame yerine fizik gï¿½ncellemesini (FixedUpdate) bekliyoruz
+            yield return new WaitForFixedUpdate();
         }
 
-        // 3. AÞAMA: YORGUNLUK / BEKLEME SÜRESÝ
-        // Dash bitti, tekrar saldýrmadan önce biraz dinlensin
         yield return new WaitForSeconds(dashBeklemeSuresi);
 
-        dashYapiliyorMu = false; // Kilidi aç, döngü baþa dönsün
+        dashYapiliyorMu = false;
     }
 }

@@ -224,6 +224,7 @@ GameObject:
   - component: {fileID: 1150137066187129949}
   - component: {fileID: 4246707615224188826}
   - component: {fileID: 3965198419111800988}
+  - component: {fileID: -1233811620141853993}
   m_Layer: 0
   m_Name: Enemy1 2
   m_TagString: Enemy
@@ -364,7 +365,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -429,3 +430,39 @@ MonoBehaviour:
   mermiPrefab: {fileID: 8474215019242793659, guid: 31ca0b21a924a9247b797a5af6bafd4c, type: 3}
   atisNoktasi: {fileID: 4681076881186344589}
   atisAraligi: 1
+--- !u!58 &-1233811620141853993
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7726757746788127122}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 0.5

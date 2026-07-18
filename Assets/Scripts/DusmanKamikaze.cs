@@ -8,22 +8,28 @@ public class DusmanKamikaze : MonoBehaviour
     public GameObject patlamaEfektiPrefab; // Patlama prefabýný buraya sürükle
 
     private Transform oyuncu;
+    private Rigidbody2D rb; // FÝZÝK ÝÇÝN EKLENDÝ
 
     void Start()
     {
+        // RÝGÝDBODY BÝLEÞENÝNÝ KODA BAÐLADIK
+        rb = GetComponent<Rigidbody2D>();
+
         GameObject p = GameObject.FindGameObjectWithTag("Player");
         if (p != null) oyuncu = p.transform;
     }
 
-    void Update()
+    // FÝZÝK ÝÞLEMLERÝ ÝÇÝN FIXEDUPDATE KULLANILIR
+    void FixedUpdate()
     {
         if (oyuncu == null) return;
 
-        // 1. Oyuncuya doðru koþ
-        transform.position = Vector2.MoveTowards(transform.position, oyuncu.position, hareketHizi * Time.deltaTime);
+        // 1. Oyuncuya doðru fizik kurallarýna uygun olarak yürü
+        Vector2 yeniPozisyon = Vector2.MoveTowards(rb.position, (Vector2)oyuncu.position, hareketHizi * Time.fixedDeltaTime);
+        rb.MovePosition(yeniPozisyon);
 
-        // 2. Menzile girdiyse (dibine geldiyse) patla
-        if (Vector2.Distance(transform.position, oyuncu.position) <= patlamaMenzili)
+        // 2. Menzile girdiyse patla (Mesafeyi ölçerken de rb.position kullanýyoruz)
+        if (Vector2.Distance(rb.position, (Vector2)oyuncu.position) <= patlamaMenzili)
         {
             Patla();
         }
@@ -31,13 +37,13 @@ public class DusmanKamikaze : MonoBehaviour
 
     public void Patla()
     {
-        // Patlama efektini (hasar vereni) doður
+        // Patlama efektini doður
         if (patlamaEfektiPrefab != null)
         {
             Instantiate(patlamaEfektiPrefab, transform.position, Quaternion.identity);
         }
 
-        // Kendini yok et (hem menzilde hem ölünce çaðýrýyoruz)
+        // Kendini yok et
         Destroy(gameObject);
     }
 }
