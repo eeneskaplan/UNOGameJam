@@ -1,14 +1,25 @@
 using UnityEngine;
 
-public class Kapi : MonoBehaviour
+public class kapi_cikis : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Kapýya çarpan obje "Player" etiketine sahipse çalýþýr
+        // Çarpan obje "Player" etiketine sahipse içeri girer
         if (other.CompareTag("Player"))
         {
-            // LevelManager'ý bulur ve sýradaki odayý yükleme komutunu verir
-            FindObjectOfType<LevelManager>().SonrakiOdayaGec();
+            // Yeni Unity sürümlerinde sarý uyarý vermemesi için FindFirstObjectByType kullanýyoruz
+            LevelManager manager = Object.FindFirstObjectByType<LevelManager>();
+
+            if (manager != null)
+            {
+                // LevelManager bulunduysa sonraki odaya geçiþi tetikle
+                manager.SonrakiOdayaGec();
+            }
+            else
+            {
+                // Eðer sahnede LevelManager yoksa konsola hata yazdýr (olasý buglarý yakalamak için)
+                Debug.LogError("Sahne içinde LevelManager bulunamadý!");
+            }
         }
     }
 }

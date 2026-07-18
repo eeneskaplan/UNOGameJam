@@ -11,13 +11,14 @@ GameObject:
   - component: {fileID: 6028152563765955014}
   - component: {fileID: 8993194286936409933}
   - component: {fileID: 5023140611422144972}
+  - component: {fileID: -6801938131610391508}
   m_Layer: 0
   m_Name: "Kap\u0131_C\u0131k\u0131s"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6028152563765955014
 Transform:
   m_ObjectHideFlags: 0
@@ -91,3 +92,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3e9ce5db4ae3f42b88a400ab163de8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+--- !u!114 &-6801938131610391508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7155398687048989344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416d78d290ecedc41bbebe0b6340209c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OdaKontrol
+  kapi: {fileID: 0}
