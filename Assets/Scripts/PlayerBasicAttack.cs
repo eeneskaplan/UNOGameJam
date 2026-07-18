@@ -6,6 +6,7 @@ public class PlayerAttack : MonoBehaviour
     public Transform firePoint;     // Merminin çýkacaðý nokta
     public float fireRate = 0.5f;   // Ýki atýþ arasý bekleme süresi
     private float nextFireTime = 0f;
+    public int mermiHasari = 25;
 
     void Update()
     {
@@ -18,16 +19,17 @@ public class PlayerAttack : MonoBehaviour
 
     void Shoot()
     {
-        // Farenin dünyadaki konumunu bul
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mousePosition.z = 0f;
-
-        // Karakterden fareye doðru olan yönü hesapla ve o açýya dön
         Vector2 lookDirection = mousePosition - transform.position;
         float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg;
 
-        // Mermiyi oluþtur ve farenin olduðu açýya doðru döndürerek fýrlat
-        Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(0, 0, angle));
+        // Mermiyi oluþtur ve bir deðiþkene ata
+        GameObject yeniMermi = Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(0, 0, angle));
+
+        // Merminin hasarýný, karakterin o anki hasarýna eþitle
+        yeniMermi.GetComponent<Bullet>().damage = mermiHasari;
+
         GetComponent<DebuffManager>().AddToBar(false);
     }
 }
