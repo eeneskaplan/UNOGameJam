@@ -177,6 +177,37 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!1 &7162520078701135190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4681076881186344589}
+  m_Layer: 0
+  m_Name: "At\u0131sNoktas\u0131"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4681076881186344589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7162520078701135190}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.1, y: -1.27, z: 0}
+  m_LocalScale: {x: 1.1363636, y: 1.1363636, z: 1.1363636}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7213002388632160049}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7726757746788127122
 GameObject:
   m_ObjectHideFlags: 0
@@ -189,11 +220,12 @@ GameObject:
   - component: {fileID: 7987524716916932193}
   - component: {fileID: 2564701312117416525}
   - component: {fileID: 7087333173364635300}
+  - component: {fileID: 1515087632706226699}
   - component: {fileID: 1150137066187129949}
-  - component: {fileID: -1091571183092097325}
-  - component: {fileID: 1936843211478759516}
+  - component: {fileID: 4246707615224188826}
+  - component: {fileID: 3965198419111800988}
   m_Layer: 0
-  m_Name: Dash enemy
+  m_Name: Enemy1 2
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -213,6 +245,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 805148166027151139}
+  - {fileID: 4681076881186344589}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7987524716916932193
@@ -265,7 +298,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0.91081333, b: 0, a: 1}
+  m_Color: {r: 0, g: 0.09880829, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -337,6 +370,20 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
+--- !u!114 &1515087632706226699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7726757746788127122}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aace54347284638429f57aaccfbbd46c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
+  moveSpeed: 3
+  detectionRadius: 3.87
 --- !u!114 &1150137066187129949
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -352,35 +399,33 @@ MonoBehaviour:
   maxHealth: 100
   alinanHasarCarpani: 1
   healthBarFill: {fileID: 7260846787043184821}
---- !u!114 &-1091571183092097325
+--- !u!114 &4246707615224188826
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7726757746788127122}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d65fff54daea92744b0f6c156a5d158c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  normalHiz: 5
-  dashHizi: 25
-  dashMenzili: 14
-  dashHazirlikSuresi: 0.3
-  dashBeklemeSuresi: 1
---- !u!114 &1936843211478759516
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7726757746788127122}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4388533d9465bc946bdff6441523c9d2, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DusmanSaldiri
+  m_EditorClassIdentifier: '::'
   hasarMiktari: 10
   vurmaMenzili: 1
-  saldiriHizi: 1
+  saldiriHizi: 1.5
+--- !u!114 &3965198419111800988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7726757746788127122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2070696478a5b0c459638894399cb42a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  mermiPrefab: {fileID: 8474215019242793659, guid: 31ca0b21a924a9247b797a5af6bafd4c, type: 3}
+  atisNoktasi: {fileID: 4681076881186344589}
+  atisAraligi: 1
