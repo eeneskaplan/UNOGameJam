@@ -37,6 +37,12 @@ public class DebuffManager : MonoBehaviour
         {
             debuffBarFill.fillAmount = 0f;
         }
+        // OYUN BAÞINDA SEÇÝLEN ELEMENTÝ OKU VE DEBUFF'I AYARLA
+        if (PlayerPrefs.HasKey("IlkElement"))
+        {
+            aktifDebuff = (ElementTuru)PlayerPrefs.GetInt("IlkElement");
+            Debug.Log("Debuff Sistemi Aktif Edildi. Geçerli Bedel: " + aktifDebuff.ToString());
+        }
     }
 
     public void AddToBar(bool isSkill)

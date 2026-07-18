@@ -28,6 +28,12 @@ public class PlayerSkill : MonoBehaviour
     void Start()
     {
         debuffManager = GetComponent<DebuffManager>();
+        // SEÇÝM EKRANINDAN GELEN VERÝYÝ OKU VE Q'YA ATA
+        if (PlayerPrefs.HasKey("IlkElement"))
+        {
+            ElementTuru kaydedilenElement = (ElementTuru)PlayerPrefs.GetInt("IlkElement");
+            QYeteneginiAktifEt(kaydedilenElement); // Zaten bu fonksiyonu yazmýþtýk!
+        }
     }
 
     void Update()
