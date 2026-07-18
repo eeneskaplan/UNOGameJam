@@ -242,17 +242,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f354525213d01564face218f4744ea3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSkill
-  qYetenegiAcik: 0
+  qYetenegiAcik: 1
   qElementi: 0
   qCooldownSuresi: 3
-  eYetenegiAcik: 0
+  eYetenegiAcik: 1
   eElementi: 0
   eCooldownSuresi: 5
-  firePoint: {fileID: 0}
-  atesAlaniPrefab: {fileID: 0}
-  dumanAlaniPrefab: {fileID: 0}
-  buzMermisiPrefab: {fileID: 0}
-  elektrikMermisiPrefab: {fileID: 0}
+  firePoint: {fileID: 7951492870094496146}
+  atesAlaniPrefab: {fileID: 1689359152098450285, guid: 1a3e29d400afd5f418b609c7e0a8a2a8, type: 3}
+  dumanAlaniPrefab: {fileID: 2820225073061393752, guid: c8778f6d10bbe7e4ca58c98ac6f3f8da, type: 3}
+  buzMermisiPrefab: {fileID: 4579292620725554339, guid: 0443a0359260440439cbead748c8135a, type: 3}
+  elektrikMermisiPrefab: {fileID: 4516259866333668169, guid: 4ba7971e8514d834ead90dfb4f171e0c, type: 3}
 --- !u!1 &7832534054488478581
 GameObject:
   m_ObjectHideFlags: 0
