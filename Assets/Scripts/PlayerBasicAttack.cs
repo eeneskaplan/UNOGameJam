@@ -28,5 +28,6 @@ public class PlayerAttack : MonoBehaviour
 
         // Mermiyi oluþtur ve farenin olduðu açýya doðru döndürerek fýrlat
         Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(0, 0, angle));
+        GetComponent<DebuffManager>().AddToBar(false);
     }
 }
