@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class LazerHasar : MonoBehaviour
 {
-    public int damage = 25; // Ýstediðin gibi ayarla
+    public int damage = 25; // Lazere deðince verilecek hasar
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        // Eðer lazer oyuncuya deðerse hasar ver
+        // Çarpan þeyin Player etiketi (Tag) varsa hasar ver
         if (hitInfo.CompareTag("Player"))
         {
             hitInfo.GetComponent<Health>().TakeDamage(damage);

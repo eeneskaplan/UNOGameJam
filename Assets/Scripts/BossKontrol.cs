@@ -11,7 +11,7 @@ public class BossKontrol : MonoBehaviour
     [Header("M�himmatlar")]
     public GameObject mermiPrefab;
     public GameObject anlikLazerPrefab;      // �leri uzanan uzun bir sprite (Collider'� kapal� ba�las�n)
-    public GameObject donenLazerSistemi;     // ��inde 4 y�ne bakan lazer olan bo� obje
+  
 
     void Start()
     {
@@ -24,7 +24,7 @@ public class BossKontrol : MonoBehaviour
             if (p != null) oyuncu = p.transform;
         }
 
-        donenLazerSistemi.SetActive(false); // D�nen lazerleri oyun ba��nda gizle
+        
         StartCoroutine(BossSavasDongusu());
     }
 
@@ -42,8 +42,7 @@ public class BossKontrol : MonoBehaviour
             yield return StartCoroutine(Mod3_CevreselDalga());
             yield return new WaitForSeconds(1f);
 
-            yield return StartCoroutine(Mod4_DonenLazer());
-            yield return new WaitForSeconds(2f);
+           
         }
     }
 
@@ -75,49 +74,49 @@ public class BossKontrol : MonoBehaviour
     // MOD 2: Uzun Süreli Düz Lazer
     // MOD 2: Uzun Süreli Düz Lazer
     // MOD 2: Sağa Sola Tarayan Ölüm Lazeri
+    // MOD 2: Sağa Sola Tarayan Kusursuz Ölüm Lazeri
+    // MOD 2: 360 Derece Kesintisiz Dönen Ölüm Lazeri
     IEnumerator Mod2_AnlikLazer()
     {
         anim.SetTrigger("Atak2");
 
         if (oyuncu == null || atisNoktasi == null) yield break;
 
-        // Oyuncunun o anki yönünü bulup merkez açı yapıyoruz
+        // Lazeri oyuncuya doğru nişan alarak başlatıyoruz
         Vector2 yon = oyuncu.position - atisNoktasi.position;
         float baslangicAcisi = Mathf.Atan2(yon.y, yon.x) * Mathf.Rad2Deg;
 
         GameObject lazer = Instantiate(anlikLazerPrefab, atisNoktasi.position, Quaternion.Euler(0, 0, baslangicAcisi));
 
-        yield return new WaitForSeconds(0.7f); // Uyarı süresi
+        yield return new WaitForSeconds(0.7f); // Oyuncuya kaçması için verilen uyarı süresi
 
         if (lazer != null)
         {
-            lazer.GetComponent<BoxCollider2D>().enabled = true;
-            lazer.GetComponent<SpriteRenderer>().color = Color.red;
+            lazer.GetComponentInChildren<BoxCollider2D>().enabled = true;
+            lazer.GetComponentInChildren<SpriteRenderer>().color = Color.red;
         }
 
         float sure = 4.5f; // Lazerin ekranda kalma süresi
         float gecenZaman = 0f;
 
-        // Lazerin sağa sola ne kadar geniş açılacağı (40 derece sağ, 40 derece sol)
-        float taramaAcisi = 40f;
-        // Dönme hızı (Rakamı artırırsan daha hızlı sallanır)
-        float donmeHizi = 3f;
+        // Lazerin saniyede kaç derece döneceği
+        // (Örneğin 100 yaparsan 3.6 saniyede tam 360 dereceyi tamamlar)
+        float donmeHizi = 60f;
 
-        // Lazer sahnede olduğu sürece her frame dönmesini sağlayan döngü
         while (gecenZaman < sure)
         {
             if (lazer == null || atisNoktasi == null) yield break;
 
             gecenZaman += Time.deltaTime;
-
-            // Boss hareket ediyorsa lazer boss'un elinden kopmasın diye pozisyonu kilitliyoruz
             lazer.transform.position = atisNoktasi.position;
 
-            // Mathf.Sin ile sağa-sola silecek gibi kusursuz bir git-gel matematiği
-            float sapma = Mathf.Sin(gecenZaman * donmeHizi) * taramaAcisi;
-            lazer.transform.rotation = Quaternion.Euler(0, 0, baslangicAcisi + sapma);
+            // Zamanla açıyı sürekli artırarak tam tur atmasını sağlıyoruz.
+            // NOT: Eğer lazerin saat yönünde dönmesini istersen aradaki "+" işaretini "-" yap.
+            float guncelAci = baslangicAcisi + (gecenZaman * donmeHizi);
 
-            yield return null; // Bir sonraki frame'e kadar bekle (Unity çökmesin diye çok kritik)
+            lazer.transform.rotation = Quaternion.Euler(0, 0, guncelAci);
+
+            yield return null;
         }
 
         if (lazer != null) Destroy(lazer);
@@ -158,26 +157,5 @@ public class BossKontrol : MonoBehaviour
             yield return new WaitForSeconds(0.4f);
         }
     }
-    // MOD 4: 4 Y�nl� D�nen Lazer
-    IEnumerator Mod4_DonenLazer()
-    {
-        anim.SetTrigger("Atak2"); // D�nen lazer i�in animasyon (�rne�in g��s�n� a�mas�)
-
-        // Boss'un i�indeki 4'l� lazer sistemini g�r�n�r yap
-        donenLazerSistemi.SetActive(true);
-
-        float donmeSuresi = 6f;
-        float gecenSure = 0f;
-        float donmeHizi = 45f; // Saniyede 45 derece d�ner
-
-        while (gecenSure < donmeSuresi)
-        {
-            donenLazerSistemi.transform.Rotate(0, 0, donmeHizi * Time.deltaTime);
-            gecenSure += Time.deltaTime;
-            yield return null; // Her frame (kare) bekle
-        }
-
-        // S�re bitince lazerleri kapat
-        donenLazerSistemi.SetActive(false);
-    }
+   
 }
