@@ -397,7 +397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daf3af1c0b5f8cf41b6bfe8568e74ff9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
-  maxHealth: 150
+  maxHealth: 100
   alinanHasarCarpani: 1
   healthBarFill: {fileID: 7260846787043184821}
 --- !u!114 &4246707615224188826
