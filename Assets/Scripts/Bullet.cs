@@ -1,11 +1,14 @@
 using UnityEngine;
-using System.Collections; // Coroutine için eklendi
+using System.Collections;
 
 public class Bullet : MonoBehaviour
 {
     public float speed = 10f;
     public float lifetime = 3f;
     public int damage = 25;
+
+    // YENÝ: Çift hasar bug'ýný önleyen mühür!
+    private bool carptiMi = false;
 
     void Start()
     {
@@ -16,18 +19,21 @@ public class Bullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
+        // Eðer mermi zaten bir þeye çarptýysa (ilk hasarýný verdiyse) kodun devamýný okuma!
+        if (carptiMi) return;
+
         if (gameObject.CompareTag("PlayerBullet") && hitInfo.CompareTag("Enemy"))
         {
-            // 1. Önce Hasarý Ver
+            carptiMi = true; // Mührü vurduk, artýk ikinci Collider'a deðse de buraya girmeyecek
+
             Health dusmanCan = hitInfo.GetComponent<Health>();
             if (dusmanCan != null)
             {
                 dusmanCan.TakeDamage(damage);
 
-                // 2. YENÝ: BUZ ELEMENTÝ (1) KONTROLÜ VE YAVAÞLATMA EFEKTÝ
+                // BUZ ELEMENTÝ (1) YAVAÞLATMA EFEKTÝ
                 if (PlayerPrefs.HasKey("IlkElement") && PlayerPrefs.GetInt("IlkElement") == 1)
                 {
-                    // Mermi yok olacaðý için yavaþlatma iþlemini düþmanýn üstündeki koda devrediyoruz
                     dusmanCan.StartCoroutine(YavaslatmaEfekti(hitInfo.gameObject));
                 }
             }
@@ -36,6 +42,7 @@ public class Bullet : MonoBehaviour
         }
         else if (gameObject.CompareTag("EnemyBullet") && hitInfo.CompareTag("Player"))
         {
+            carptiMi = true; // Düþman mermisi için de mühür
             hitInfo.GetComponent<Health>().TakeDamage(damage);
             Destroy(gameObject);
         }
@@ -45,23 +52,19 @@ public class Bullet : MonoBehaviour
         }
     }
 
-    // YENÝ: Düþmanýn hýzýný 2 saniyeliðine kýran sistem
+    // Düþmanýn hýzýný 2 saniyeliðine kýran sistem (Health üzerinden çaðrýlýr)
     private IEnumerator YavaslatmaEfekti(GameObject dusman)
     {
-        // Senin yazdýðýn 3 farklý düþman tipinin kodlarýný arýyoruz
         DusmanDash tip1 = dusman.GetComponent<DusmanDash>();
         DusmanKamikaze tip2 = dusman.GetComponent<DusmanKamikaze>();
         EnemyMovement tip3 = dusman.GetComponent<EnemyMovement>();
 
-        // Hangi düþmansa onun hýzýný %40 oranýnda azalt
         if (tip1 != null) tip1.normalHiz *= 0.6f;
         if (tip2 != null) tip2.hareketHizi *= 0.6f;
         if (tip3 != null) tip3.moveSpeed *= 0.6f;
 
-        // 2 Saniye donuk kalsýn
         yield return new WaitForSeconds(2f);
 
-        // 2 saniye sonra düþman hala yaþýyorsa (ölüp yok olmadýysa) hýzýný eski haline getir
         if (dusman != null)
         {
             if (tip1 != null) tip1.normalHiz /= 0.6f;

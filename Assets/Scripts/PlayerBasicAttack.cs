@@ -6,7 +6,7 @@ public class PlayerAttack : MonoBehaviour
     public Transform firePoint;     // Merminin çýkacaðý nokta
     public float fireRate = 0.5f;   // Ýki atýþ arasý bekleme süresi
     private float nextFireTime = 0f;
-    public int mermiHasari = 25;
+    public int mermiHasari = 20;
 
     [Header("Element Mermileri (Sýrayla Koy!)")]
     // 0: Ateþ, 1: Buz, 2: Duman, 3: Elektrik olacak þekilde inspector'dan sürükle
@@ -20,14 +20,24 @@ public class PlayerAttack : MonoBehaviour
         if (PlayerPrefs.HasKey("IlkElement"))
         {
             aktifElementIndex = PlayerPrefs.GetInt("IlkElement");
-            // ATEÞ ELEMENTÝ (0) SEÇÝLDÝYSE HASARI 30 YAP
-            if (aktifElementIndex == 0)
+
+            // Hangi element seçildiyse onun statlarýný belirle
+            switch (aktifElementIndex)
             {
-                mermiHasari = 30;
-            }
-            else
-            {
-                mermiHasari = 25; // Diðerleri için varsayýlan hasar
+                case 0: // ATEÞ
+                    mermiHasari = 25;
+                    fireRate = 0.5f;
+                    break;
+
+                case 3: // ELEKTRÝK
+                    mermiHasari = 15;
+                    fireRate = 0.3f;
+                    break;
+
+                default: // DÝÐERLERÝ (BUZ VE DUMAN)
+                    mermiHasari = 20;
+                    fireRate = 0.5f;
+                    break;
             }
         }
     }

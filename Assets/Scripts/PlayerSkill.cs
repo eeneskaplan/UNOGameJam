@@ -2,17 +2,11 @@ using UnityEngine;
 
 public class PlayerSkill : MonoBehaviour
 {
-    [Header("Q Yeteneði (1. Element)")]
-    public bool qYetenegiAcik = false; // Odayý temizleyince true yapacaðýz
-    public ElementTuru qElementi;
-    public float qCooldownSuresi = 3f;
-    private float qSonKullanimZamani = -100f;
-
-    [Header("E Yeteneði (Boss Sonrasý 2. Element)")]
-    public bool eYetenegiAcik = false; // Bossu kesince true yapacaðýz
-    public ElementTuru eElementi;
-    public float eCooldownSuresi = 5f;
-    private float eSonKullanimZamani = -100f;
+    [Header("Yetenek (Tek Element - Q Tuþu)")]
+    public bool yetenekAcik = false;
+    public ElementTuru aktifElement;
+    public float cooldownSuresi = 3f;
+    private float sonKullanimZamani = -100f;
 
     [Header("Yetenek Ayarlarý")]
     public Transform firePoint;
@@ -28,34 +22,27 @@ public class PlayerSkill : MonoBehaviour
     void Start()
     {
         debuffManager = GetComponent<DebuffManager>();
-        // SEÇÝM EKRANINDAN GELEN VERÝYÝ OKU VE Q'YA ATA
+
+        // OYUN BAÞINDA SEÇÝLEN TEK ELEMENTÝ OKU VE YETENEÐÝ AKTÝF ET
         if (PlayerPrefs.HasKey("IlkElement"))
         {
             ElementTuru kaydedilenElement = (ElementTuru)PlayerPrefs.GetInt("IlkElement");
-            QYeteneginiAktifEt(kaydedilenElement); // Zaten bu fonksiyonu yazmýþtýk!
+            YetenegiAktifEt(kaydedilenElement);
         }
     }
 
     void Update()
     {
-        // --- Q YETENEÐÝ TETÝKLEYÝCÝSÝ ---
-        if (qYetenegiAcik && Input.GetKeyDown(KeyCode.Q) && Time.time >= qSonKullanimZamani + qCooldownSuresi)
+        // --- TEK YETENEK (Q) TETÝKLEYÝCÝSÝ ---
+        if (yetenekAcik && Input.GetKeyDown(KeyCode.Q) && Time.time >= sonKullanimZamani + cooldownSuresi)
         {
-            debuffManager.AddToBar(true);
-            YetenekAtesle(qElementi);
-            qSonKullanimZamani = Time.time;
-        }
-
-        // --- E YETENEÐÝ TETÝKLEYÝCÝSÝ ---
-        if (eYetenegiAcik && Input.GetKeyDown(KeyCode.E) && Time.time >= eSonKullanimZamani + eCooldownSuresi)
-        {
-            debuffManager.AddToBar(true);
-            YetenekAtesle(eElementi);
-            eSonKullanimZamani = Time.time;
+            debuffManager.AddToBar(true); // Skill kullanýldýðý için bara daha çok ekle
+            YetenekAtesle(aktifElement);
+            sonKullanimZamani = Time.time;
         }
     }
 
-    // Hangi tuþa basýldýðýný anlayýp ona göre doðru elementi fýrlatan merkez fonksiyon
+    // Seçilen elementi fýrlatan/kullanan merkez fonksiyon
     void YetenekAtesle(ElementTuru kullanilanElement)
     {
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -82,21 +69,11 @@ public class PlayerSkill : MonoBehaviour
         }
     }
 
-    // --- DIÞARIDAN ÇAÐRILACAK KÝLÝT AÇMA FONKSÝYONLARI ---
-
-    // Odayý temizleyip ilk elementini seçtiðinde UI butonundan bu çaðrýlacak
-    public void QYeteneginiAktifEt(ElementTuru secilenElement)
+    // Oyun baþýnda bu fonksiyon çaðrýlýp yeteneðin kilidini açar
+    public void YetenegiAktifEt(ElementTuru secilenElement)
     {
-        qElementi = secilenElement;
-        qYetenegiAcik = true;
-        Debug.Log("Q Yeteneði açýldý! Element: " + secilenElement.ToString());
-    }
-
-    // Boss'u kesip ikinci elementini seçtiðinde UI butonundan bu çaðrýlacak
-    public void EYeteneginiAktifEt(ElementTuru secilenElement)
-    {
-        eElementi = secilenElement;
-        eYetenegiAcik = true;
-        Debug.Log("E Yeteneði açýldý! Element: " + secilenElement.ToString());
+        aktifElement = secilenElement;
+        yetenekAcik = true;
+        Debug.Log("Yetenek açýldý! Element: " + secilenElement.ToString());
     }
 }
